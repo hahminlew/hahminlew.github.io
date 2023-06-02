@@ -42,7 +42,7 @@ Moon Hwan Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Sangyeon 
 
 - **<font size="4">Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839383) \\
-Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Dong Hun Lee\*, and Jae Youn Hwang. \\
+Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Dong Hun Lee, and Jae Youn Hwang. \\
 <span style="color:slateblue">**IEEE Journal of Biomedical and Health Informatics**</span> (IF: 7.021) 07.25.2022.
 
 - **<font size="4">Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image</font>**
