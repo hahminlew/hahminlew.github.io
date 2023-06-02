@@ -19,7 +19,8 @@ My research interest is **image or video synthesis**, transfer learning on compu
 <span style="color:lightsalmon">**Hah Min Lew**</span>, Sahng-Min Yoo, Hyunwoo Kang, and Gyeong-Moon Park \\
 Under Review
 
-- **<font size="4">CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**\\
+- **<font size="4">CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**
+[[paper]](https://openaccess.thecvf.com/content/ACCV2022/html/Lee_CSS-Net_Classification_and_Substitution_for_Segmentation_of_Rotator_Cuff_Tear_ACCV_2022_paper.html) \\
 Kyungsu Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Moon Hwan Lee, Minji Kang, Junyoung Kim, and Jae Youn Hwang \\
 <span style="color:indianred">**ACCV**</span> 2022
 
