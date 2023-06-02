@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My research interest is **image or video synthesis**, transfer learning on computer vision and graphics. I have a curious and challenging spirit, and I'm open-minded about studying new research fields. I'm currently involving the research topics as follows:
+My research interest is **image or video synthesis**, transfer learning on computer vision and graphics. I'm a curious and challenging spirit, and I'm open-minded about studying new research areas. I'm currently involving the research topics as follows:
  - Neural Talking Head Synthesis
  - Head Swapping
  - Image Animation
@@ -61,7 +61,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 
 ## Work Experiences
-- Research Scientist, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Current</font>
+- AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Current</font>
   - Image and video synthesis via generative models.
 - Graduate Researcher, **AI Multimodal Biomedical Imaging and Systems Lab.**, DGIST, Daegu, Sout Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
