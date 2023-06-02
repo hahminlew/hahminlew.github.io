@@ -7,14 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a research scientist at [Klleon AI Research](https://klleon.io/).
+I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My research interest mainly targets proposing algorithms **facilitating deep learning models to properly learn under stressed conditions** (*e.g.* limited supervision), which is critical in deploying Artificial Intelligence (AI) systems to real-world applications. I currently focus on the following research areas:
-- Graph neural network algorithm
-- Data augmentation
-- Learning with class-imbalanced data
-- Self-supervised representation learning
-
+My research interest is **Image or video synthesis using generative models**. I'm currently pursing the research topics as follows:
+ - Face Reenactment
+ - Head Swapping
+ - Motion Transfer
 
 ## Conference Publications
 - **<font size="4">Towards High-Fidelity Head Swapping with Chroma Keying</font>**\\
@@ -64,12 +62,11 @@ Jihun Kim, **Hah Min Lew**, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na
 
 ## Work Experiences
 - Research Scientist, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Current</font>
-  - Advisor: [Prof. Homa Alemzadeh](https://homa-alem.github.io/)
   - Image and video synthesis via generative models.
 - Graduate Researcher, **AI Multimodal Biomedical Imaging and Systems Lab.**, DGIST, Daegu, Sout Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and 2 awards.
-  - Colla
+
 <!-- - Research Intern, **Collaborative Robots Research Center, DGIST**, Daegu, <font size="3">Jun. 2017 - Aug. 2017</font>
   - Development of treadmill for stroke hemiplegic patients
 - Research Intern, **Collaborative Robots Research Center, DGIST**, Daegu, <font size="3">Jun. 2017 - Aug. 2017</font>
@@ -80,7 +77,7 @@ Jihun Kim, **Hah Min Lew**, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na
 ## Education
 - **M.S.** in Electrical Engineering & Computer Science, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2021</font> 
 
-- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - <span style="color:darkred;font-size:3;">(**Thesis: Development of a Screw Motion Haptic Device for Osteosynthesis (Best Project Award)**)</span>
+- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - <span style="color:darkred;font-size:3;">(**Best Project Award**)</span>
 
 ## Projects
 - Development of a Low-voltage Driving CMUT-based Ring-type Ultrasound Imaging Sensor for a Next-generation Medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
@@ -89,7 +86,6 @@ Jihun Kim, **Hah Min Lew**, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na
 - Multimode Data Registration and Analysis for Tumor/Cancer Detection, **Kyungpook National University Chilgok Hospital**, <font size="3">Mar. 2019 - Oct. 2020</font>
 - Smart Monitoring System for Hip Implant Liner, **Daegu Catholic University Medical Center**, <font size="3">Mar. 2019 - May. 2021</font>
 
-<!-- 
-## Acamdeic Services
+<!-- ## Acamdeic Services
 - Conference Reviewer
-    - 
+    -  -->
