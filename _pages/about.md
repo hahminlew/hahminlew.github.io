@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hah Min Lew"
+title: "About"
 excerpt: "Hah Min Lew"
 author_profile: true
 redirect_from:
@@ -69,17 +69,12 @@ Jihun Kim, **Hah Min Lew**, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - Jun. 2017</font>
   - Founded a data-driven one-on-one customized tutor matching service company.
 
-<!-- - Research Intern, **Collaborative Robots Research Center, DGIST**, Daegu, <font size="3">Jun. 2017 - Aug. 2017</font>
-  - Development of treadmill for stroke hemiplegic patients
-- Research Intern, **Collaborative Robots Research Center, DGIST**, Daegu, <font size="3">Jun. 2017 - Aug. 2017</font>
-  - Development of treadmill for stroke hemiplegic patients
-- Research Intern, **Collaborative Robots Research Center, DGIST**, Daegu, <font size="3">Jun. 2017 - Aug. 2017</font>
-  - Development of treadmill for stroke hemiplegic patients -->
 
 ## Education
 - **M.S.** in Electrical Engineering & Computer Science, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2021</font> 
 
 - **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - <span style="color:darkred;font-size:3;">(**Best Project Award**)</span>
+
 
 ## Projects
 - Development of an End-to-end Head Swapping Pipeline, **Klleon**, <font size="3">Aug. 2022 - Current</font>
