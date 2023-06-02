@@ -16,47 +16,47 @@ My research interest is **image or video synthesis**, transfer learning on compu
 
 ## Conference Publications
 - **<font size="4">Towards High-Fidelity Head Swapping with Chroma Keying</font>**\\
-<span style="color:springgreen">**Hah Min Lew**</span>, Sahng-Min Yoo, Hyunwoo Kang, and Gyeong-Moon Park \\
+<span style="color:lightsalmon">**Hah Min Lew**</span>, Sahng-Min Yoo, Hyunwoo Kang, and Gyeong-Moon Park \\
 Under Review
 
 - **<font size="4">CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**\\
-Kyungsu Lee, <span style="color:springgreen">**Hah Min Lew**</span>, Moon Hwan Lee, Minji Kang, Junyoung Kim, and Jae Youn Hwang \\
+Kyungsu Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Moon Hwan Lee, Minji Kang, Junyoung Kim, and Jae Youn Hwang \\
 <span style="color:indianred">**ACCV**</span> 2022
 
 
 ## Journal Publications
 - **<font size="4">Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis</font>**\\
-Kyungsu Lee, Sewoong Kim, Thiago Coutinho Cavalcanti, <span style="color:springgreen">**Hah Min Lew**</span>, Moon Hwan Lee, Haeyun Lee, Jonghye Woo, Georges El Fakhri, Jay Kuo, Dae Hun Suh, Dong Hun Lee, and Jae Youn Hwang \\
+Kyungsu Lee, Sewoong Kim, Thiago Coutinho Cavalcanti, <span style="color:lightsalmon">**Hah Min Lew**</span>, Moon Hwan Lee, Haeyun Lee, Jonghye Woo, Georges El Fakhri, Jay Kuo, Dae Hun Suh, Dong Hun Lee, and Jae Youn Hwang \\
 In Submission, <span style="color:slateblue">**IEEE Journal of Biomedical and Health Informatics**</span> (IF: 7.021) 
 
 - **<font size="4">Deep learning-based framework for fast and accurate acoustic hologram generation</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9939026) \\
-Moon Hwan Lee, <span style="color:springgreen">**Hah Min Lew**</span>, Sangyeon Youn, Tae Kim, and Jae Youn Hwang \\
+Moon Hwan Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Sangyeon Youn, Tae Kim, and Jae Youn Hwang \\
 <span style="color:slateblue">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267, [Featured on the front cover](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963909)) 11.04.2022.
 
 - **<font size="4">Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839383) \\
-Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:springgreen">**Hah Min Lew**</span>, Dong Hun Lee\*, and Jae Youn Hwang. \\
+Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Dong Hun Lee\*, and Jae Youn Hwang. \\
 <span style="color:slateblue">**IEEE Journal of Biomedical and Health Informatics**</span> (IF: 7.021) 07.25.2022.
 
 - **<font size="4">Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839469) \\
-Haeyun Lee, Moon Hwan Lee, Sangyeon Youn, Kyungsu Lee, <span style="color:springgreen">**Hah Min Lew**</span>, and Jae Youn Hwang. \\
+Haeyun Lee, Moon Hwan Lee, Sangyeon Youn, Kyungsu Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, and Jae Youn Hwang. \\
 <span style="color:slateblue">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267) 07.25.2022.
 
 - **<font size="4">Intelligent Smartphone-based Multimode Imaging Otoscope for the Mobile Diagnosis of Otitis Media</font>**
 [[paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-12-7765&id=465384) \\
-Thiago Coutinho Cavalcanti, <span style="color:springgreen">**Hah Min Lew**</span>, Kyungsu Lee, Sang-yeon Lee, Moo Kyun Park, and Jae Youn Hwang. \\
+Thiago Coutinho Cavalcanti, <span style="color:lightsalmon">**Hah Min Lew**</span>, Kyungsu Lee, Sang-yeon Lee, Moo Kyun Park, and Jae Youn Hwang. \\
 <span style="color:slateblue">**Biomedical Optics Express**</span> (IF: 3.562, [Spotlight on Optics](https://opg.optica.org/spotlight/summary.cfm?id=465384)) 11.23.2021.
 
 - **<font size="4">Ultrasonic Blood Flowmeter with a Novel Xero Algorithm for a Mechanical Circulatory Support System</font>**
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0041624X21000913) \\
-<span style="color:springgreen">**Hah Min Lew**</span>, Heean Shin, Moon Hwan Lee, Sangyeon Youn, Hee Chan Kim, and Jae Youn Hwang. \\
+<span style="color:lightsalmon">**Hah Min Lew**</span>, Heean Shin, Moon Hwan Lee, Sangyeon Youn, Hee Chan Kim, and Jae Youn Hwang. \\
 <span style="color:slateblue">**Ultrasonics**</span> (IF: 4.062) 08.01.2021.
 
 - **<font size="4">Forward-looking Multimodal Endoscopic System based on Optical Multispectral and High-frequency Ultrasound Imaging Techniques for Tumor Detection</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9233369) \\
-Jihun Kim, <span style="color:springgreen">**Hah Min Lew**</span>, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na Seo, Soo Yeun Park, Jin Ho Chang, Enjoo Kim, and Jae Youn Hwang. \\
+Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na Seo, Soo Yeun Park, Jin Ho Chang, Enjoo Kim, and Jae Youn Hwang. \\
 <span style="color:slateblue">**IEEE Transactions on Medical Imaging**</span> (IF: 11.037) 10.20.2020.
 
 
