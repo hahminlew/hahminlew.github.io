@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About"
+excerpt: "Hah Min Lew"
 author_profile: true
 redirect_from:
   - /about/
