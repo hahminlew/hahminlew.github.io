@@ -14,6 +14,11 @@ My research interest is **image or video synthesis**, transfer learning on compu
  - Head Swapping
  - Image Animation
 
+And the research areas that I have recently become interested and studying in are:
+- Image Editing with Diffusion Models
+- 3D-aware Image Synthesis
+
+
 ## Conference Publications
 - **<font size="4">Towards High-Fidelity Head Swapping with Chroma Keying</font>**\\
 <span style="color:lightsalmon">**Hah Min Lew**</span>, Sahng-Min Yoo, Hyunwoo Kang, and Gyeong-Moon Park \\
