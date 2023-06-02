@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My research interest is **image or video synthesis**, transfer learning on computer vision and graphics. I'm a curious and challenging spirit, and I'm open-minded about studying new research areas. I'm currently involving the research topics as follows:
+My research interest is **image or video synthesis** on computer vision and graphics. I'm a curious and challenging spirit, and I'm open-minded about studying new research areas. I'm currently involving the research topics as follows:
  - Neural Talking Head Synthesis
  - Head Swapping
  - Image Animation
