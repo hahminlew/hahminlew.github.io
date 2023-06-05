@@ -18,7 +18,6 @@ And the research areas that I have recently become interested in, and studying a
 - Generative Modeling via Statistics
   - Markov Chain Monte Carlo (MCMC): Langevin dynamics
   - Score-based generative modeling
-  - Diffusion models
 - Image Editing with Diffusion Models
 - 3D-aware Image Synthesis
 
