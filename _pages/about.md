@@ -15,9 +15,7 @@ My research interest is **image or video synthesis** on computer vision and grap
  - Image Animation
 
 And the research areas that I have recently become interested in, and studying are:
-- Generative Modeling via Statistics
-  - Markov Chain Monte Carlo (MCMC): Langevin dynamics
-  - Score-based generative modeling
+- Score-based Generative Modeling
 - Image Editing with Diffusion Models
 - 3D-aware Image Synthesis
 
