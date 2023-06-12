@@ -13,4 +13,4 @@ gallery:
     alt: "Best Project Award"
 ---
 
-{% include gallery id="gallery" caption="Outstanding Poster Award: 2021 Student Conference at Daegu Gyeongbuk Institute of Science & Technology (DGIST), Best Paper Award: 2021 Spring Conference at The Korean Society of Medical & Biological Engineering (KOSOMBE), Best Project Award: 2016 Undergraduate Group Research Project (UGRP) Program at DGIST, from Left to Right." %}
+{% include gallery id="gallery" caption="Outstanding Poster Award (Aug. 2021): 2021 Student Conference at Daegu Gyeongbuk Institute of Science & Technology (DGIST), Best Paper Award (May. 2021): 2021 Spring Conference at The Korean Society of Medical & Biological Engineering (KOSOMBE), Best Project Award (Mar. 2017): 2016 Undergraduate Group Research Project (UGRP) Program at DGIST, from Left to Right." %}
