@@ -1,10 +1,11 @@
 ---
-title: "Awards"
-categories:
-  - Honors and Awards
-tags:
-  - awards
-  - honors
+permalink: /awards/
+title: "Hah Min Lew"
+excerpt: "Hah Min Lew"
+author_profile: true
+redirect_from:
+  - /awards/
+  - /awards.html
 ---
 
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/best project award.jpg" alt="">{% endraw %}
