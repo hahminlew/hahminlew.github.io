@@ -12,3 +12,5 @@ gallery:
     image_path: images/outstanding poster award.jpg
     alt: "Outstanding Poster Award"
 ---
+
+{% include gallery id="gallery" caption="Awards." %}
