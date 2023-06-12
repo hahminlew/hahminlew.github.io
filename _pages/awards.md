@@ -10,5 +10,5 @@ gallery:
     alt: "Best Paper Award"
   - url: /images/outstanding poster award.jpg
     image_path: images/outstanding poster award.jpg
-    alt: "Outstanding Poster Award.jpg"
+    alt: "Outstanding Poster Award"
 ---
