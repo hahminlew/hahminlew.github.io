@@ -72,7 +72,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Image and video synthesis via generative models such as GAN, Diffusion, and 3D-aware.
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, DGIST, Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
-  - 8 paper works, 7 international conferences, 9 projects, 6 patents, and 2 awards.
+  - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - Jun. 2017</font>
   - Founded a data-driven one-on-one customized tutor matching service company.
 
@@ -80,7 +80,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 ## Education
 - **M.S.** in Electrical Engineering & Computer Science, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2021</font> 
 
-- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - <span style="color:indianred;font-size:3;">(**Best Project Award**)</span>
+- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science & Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - <span style="color:indianred;font-size:3;">(**[Best Project Award](https://hahminlew.github.io/awards/)**)</span>
 
 
 ## Projects
