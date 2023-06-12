@@ -1,7 +1,9 @@
 # main links
-# main:
-#  - title: "About"
-#    url: /
+main:
+ - title: "Home"
+   url: https://hahminlew.github.io/
+ - title: "Awards"
+   url: https://hahminlew.github.io/awards/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
