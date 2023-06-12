@@ -4,6 +4,7 @@
 - I'm delighted to share the template with to who want to manage their curriculum vitae (CV).
 - Please update `_config.yml` and `about.md` in `_pages`. 
 - Upload your own profile image `_images`.
+- If you want to add more content, just insert additional pages and images in `_pages` and `_images`.
 - I refer to this template and contents from awesome [author1: Joonhyung Park](https://joonhyung-park.github.io/) and [author2: Keunhong Park](https://keunhong.com/). Especially, heavily borrowed from the [author1](https://joonhyung-park.github.io/). Thanks for sharing great templates and contents.
 
 # License
