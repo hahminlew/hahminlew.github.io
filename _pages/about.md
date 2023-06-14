@@ -15,9 +15,8 @@ My research interest is **image or video synthesis** on computer vision and grap
  - Image Animation
 
 And the research areas that I have recently become interested in, and studying are:
-- Score-based Generative Modeling & Diffusion Probailistic Modeling
-- Image Editing with Diffusion Models
 - 3D-aware Image Synthesis
+- Score-based Generative Modeling & Diffusion Probailistic Modeling
 
 
 ## Conference Publications
