@@ -21,7 +21,7 @@ And the research areas that I have recently become interested in, and studying a
 
 ## Conference Publications
 - **<font size="4">Towards High-Fidelity Head Swapping with Chroma Keying</font>**
-  [[project page]](https://chromahs.github.io/) \\
+  [[project page]](https://hahminlew.github.io/chromahs/) \\
 <span style="color:lightsalmon">**Hah Min Lew**</span>, Sahng-Min Yoo, Hyunwoo Kang, and Gyeong-Moon Park \\
 Under Review
 
