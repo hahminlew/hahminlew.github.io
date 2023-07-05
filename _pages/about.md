@@ -9,14 +9,14 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My research interest is **image or video synthesis** on computer vision and graphics. I'm a curious and challenging spirit, and I'm open-minded about studying new research areas. I'm currently involving the research topics as follows:
+My interest is to solve meaningful data-driven real-world problems through AI / ML systems, currently based on computer vision and machine learning. I'm a curious and challenging spirit, and open-minded about studying new research areas. My recent projects are as follows:
  - Neural Talking Head Synthesis
  - Head Swapping
  - Image Animation
 
 And the research areas that I have recently become interested in, and studying are:
-- 3D-aware Image Synthesis
 - Score-based Generative Modeling & Diffusion Probailistic Modeling
+- 3D-aware Image Synthesis
 
 
 ## Conference Publications
@@ -73,7 +73,9 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
-- Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - Jun. 2017</font>
+- Product Manager, **Class101**, Ulsan, South Korea, <font size="3">June 2017 - July 2017</font>
+  - Tutor matching service management through data analysis.
+- Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - June 2017</font>
   - Founded a data-driven one-on-one customized tutor matching service company.
 
 
