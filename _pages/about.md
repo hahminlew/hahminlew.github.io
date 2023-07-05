@@ -69,7 +69,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Current</font>
-  - Image and video synthesis via generative models such as GAN, Diffusion, and 3D-aware.
+  - Image and video synthesis through generative modeling using implicit, score-based, and 3D-aware methods.
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
