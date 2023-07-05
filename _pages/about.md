@@ -86,12 +86,12 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 
 ## Projects
-- Development of an End-to-end Head Swapping Pipeline, **Klleon**, <font size="3">Aug. 2022 - Current</font>
-- Development of a Low-voltage Driving CMUT-based Ring-type Ultrasound Imaging Sensor for a Next-generation Medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
-- Smartphone-based Multimode Image Classification and Segmentation for Early Dental Caries Using Deep Learning, **Seoul National University Dental Hospital**, <font size="3">Apr. 2020 - Feb. 2022</font>
-- Intelligent Smartphone-based Multimode Data Analysis for the Mobile Diagnosis of Otitis Media, **Seoul National University Hospital**, <font size="3">Feb. 2020 - Jan. 2022</font>
-- Multimode Data Registration and Analysis for Tumor/Cancer Detection, **Kyungpook National University Chilgok Hospital**, <font size="3">Mar. 2019 - Oct. 2020</font>
-- Smart Monitoring System for Hip Implant Liner, **Daegu Catholic University Medical Center**, <font size="3">Mar. 2019 - May. 2021</font>
+- Development of the product applicable state-of-the-art head swapping pipeline, **Klleon**, <font size="3">Aug. 2022 - Current</font>
+- Development of a low-voltage driving CMUT-based ring-type ultrasound imaging sensor for a next-generation medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
+- Smartphone-based multimode image classification and segmentation for early dental caries using machine learning, **Seoul National University Dental Hospital**, <font size="3">Apr. 2020 - Feb. 2022</font>
+- Intelligent smartphone-based multimode data analysis for the mobile diagnosis of Otitis Media through machine learning, **Seoul National University Hospital**, <font size="3">Feb. 2020 - Jan. 2022</font>
+- Multimode data registration and analysis for tumor/cancer detection, **Kyungpook National University Chilgok Hospital**, <font size="3">Mar. 2019 - Oct. 2020</font>
+- Smart monitoring system for hip implant liner, **Daegu Catholic University Medical Center**, <font size="3">Mar. 2019 - May. 2021</font>
 
 <!-- ## Acamdeic Services
 - Conference Reviewer
