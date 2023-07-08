@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My interest is to solve meaningful data-driven real-world problems through AI / ML systems, currently based on computer vision and machine learning. I'm a curious and challenging spirit, and open-minded about studying new research areas. My recent projects are as follows:
+My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on computer vision and machine learning. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent projects are as follows:
  - Neural Talking Head Synthesis
  - Head Swapping
  - Image Animation
@@ -73,6 +73,8 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
+  - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
+  - Teaching coding and medical image analysis using AI from scratch to high school students for 10 months.
 - Product Manager, **Class101**, Ulsan, South Korea, <font size="3">June 2017 - July 2017</font>
   - Tutor matching service management through data analysis.
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - June 2017</font>
