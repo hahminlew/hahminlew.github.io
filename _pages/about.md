@@ -98,7 +98,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Smartphone-based multimode image classification and segmentation for early dental caries using machine learning, **Seoul National University Dental Hospital**, <font size="3">Apr. 2020 - Feb. 2022</font>
 - Intelligent smartphone-based multimode data analysis for the mobile diagnosis of Otitis Media through machine learning, **Seoul National University Hospital**, <font size="3">Feb. 2020 - Jan. 2022</font>
 - Multimode data registration and analysis for tumor/cancer detection, **Kyungpook National University Chilgok Hospital**, <font size="3">Mar. 2019 - Oct. 2020</font>
-- Smart monitoring system for hip implant liner, **Daegu Catholic University Medical Center**, <font size="3">Mar. 2019 - May. 2021</font>
+- Smart monitoring system for hip implant liner, **Daegu Catholic University Medical Center**, <font size="3">Mar. 2019 - May 2021</font>
 
 <!-- ## Acamdeic Services
 - Conference Reviewer
