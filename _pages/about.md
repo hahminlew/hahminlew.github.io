@@ -68,7 +68,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 
 ## Work Experiences
-- AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Current</font>
+- AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
   - Image and video synthesis through generative modeling using implicit, score-based, and 3D-aware methods.
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
@@ -88,7 +88,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 
 ## Projects
-- Construction of a 3D Facial Action Coding System (3D FACS), **Klleon**, <font size="3">June 2023 - Current</font>
+- Construction of a 3D Facial Action Coding System (3D FACS), **Klleon**, <font size="3">June 2023 - present</font>
   - Data-centric research and development with establishing a high-quality 3D FACS.
 - Development of a state-of-the-art ML-based head swapping pipeline, **Klleon**, <font size="3">Dec.2022 - June 2023</font>
   - Full cycle experience from the problem statement, data preprocessing and construction, ML model design, training and evaluation, result serving and improvement, and submission paper to ICCV 2023.
