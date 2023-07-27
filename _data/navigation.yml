@@ -2,10 +2,12 @@
 main:
  - title: "Home"
    url: https://hahminlew.github.io/
+ - title: "Publications"
+   url: https://hahminlew.github.io/#conference-publications
  - title: "Awards"
    url: https://hahminlew.github.io/awards/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "CV"
+    url: "docs/HahMinLew_CV.pdf"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
