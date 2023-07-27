@@ -6,12 +6,12 @@ main:
    url: /#conference-publications
  - title: "Awards"
    url: /awards/
-  - title: "CV"
-    url: "docs/HahMinLew_CV.pdf"
-  - title: "Project Pages"
-    sublinks:
-      - title: Chroma-HS
-        url: /chromahs/
+ - title: "CV"
+   url: "docs/HahMinLew_CV.pdf"
+ - title: "Project Pages"
+   sublinks:
+   - title: Chroma-HS
+     url: /chromahs/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
