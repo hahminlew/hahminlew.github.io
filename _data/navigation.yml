@@ -5,7 +5,7 @@ main:
  - title: "Awards"
    url: /awards/
  - title: "CV"
-   url: "images/HahMinLew_CV.pdf"
+   url: "docs/HahMinLew_CV.pdf"
  - title: "Project Pages"
    sublinks:
    - title: Chroma-HS
