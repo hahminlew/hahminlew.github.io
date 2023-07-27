@@ -66,7 +66,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - Image and video synthesis through generative modeling using implicit, score-based, and 3D-aware methods.
+  - ML model engineering for image and video synthesis through generative modeling using implicit, score-based, and 3D-aware methods. Worked on [Chroma-HS](https://hahminlew.github.io/chromahs/) by employing Vision Transformer (ViT).
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
@@ -86,9 +86,9 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Projects
 - Construction of a 3D Facial Action Coding System (3D FACS), **Klleon**, <font size="3">June 2023 - present</font>
-  - Data-centric research and development with establishing a high-quality 3D FACS.
+  - Data-centric research and 3D parameterized model engineering.
 - Development of a state-of-the-art ML-based head swapping pipeline, **Klleon**, <font size="3">Dec.2022 - June 2023</font>
-  - Full cycle experience from the problem statement, data preprocessing and construction, ML model design, training and evaluation, result serving and improvement, and submission paper to ICCV 2023.
+  - Full cycle experience from the problem statement, data preprocessing and construction, ML model design, training and evaluation, result serving and improvement.
 - Building a core production-level head swapping framework, **Klleon**, <font size="3">Oct.2022 - Dec.2022</font>
   - Implementing and reproducing baseline from scratch that has no code. Design optimal solutions to achieve performance at product-applicable levels.
 - Development of a low-voltage driving CMUT-based ring-type ultrasound imaging sensor for a next-generation medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
