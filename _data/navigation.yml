@@ -12,8 +12,8 @@ main:
    sublinks:
    - title: Chroma-HS
      url: /chromahs/
-   - title: Test
-     url: /#journal-publications
+  #  - title: Test
+  #    url: /#journal-publications
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
