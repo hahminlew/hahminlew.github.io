@@ -2,16 +2,16 @@
 main:
  - title: "Home"
    url: https://hahminlew.github.io/
- - title: "Publications"
-   url: /#conference-publications
- - title: "CV"
-   url: "images/HahMinLew_CV.pdf"
  - title: "Awards"
    url: /awards/
+ - title: "CV"
+   url: "images/HahMinLew_CV.pdf"
  - title: "Project Pages"
    sublinks:
    - title: Chroma-HS
      url: /chromahs/
+#  - title: "Publications"
+#    url: /#conference-publications
   #  - title: Test
   #    url: /#journal-publications
   # - title: "Sample Collections"
