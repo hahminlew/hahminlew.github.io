@@ -10,7 +10,7 @@ redirect_from:
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
 My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on computer vision and machine learning. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent projects are as follows:
- - 3D parameterized modeling
+ - 3D Parameterized Modeling
  - Neural Talking Head Synthesis
  - Head Swapping
  - Image Animation
