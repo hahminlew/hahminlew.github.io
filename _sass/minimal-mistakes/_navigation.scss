@@ -259,7 +259,8 @@
     }
 
     .dropdown {
-      float: left;
+      position: relative;
+      display: inline-block;
       width: auto;
     }
 
