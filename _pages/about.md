@@ -89,8 +89,10 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Data-centric research and 3D parameterized model engineering.
 - Development of a state-of-the-art ML-based head swapping pipeline, **Klleon**, <font size="3">Dec.2022 - June 2023</font>
   - Full cycle experience from the problem statement, data preprocessing and construction, ML model design, training and evaluation, result serving and improvement.
+  - Achievements: Core-contributed to raise a $5m series A round.
 - Building a core production-level head swapping framework, **Klleon**, <font size="3">Oct.2022 - Dec.2022</font>
   - Implementing and reproducing baseline from scratch that has no code. Design optimal solutions to achieve performance at product-applicable levels.
+  - Featured customers - Big tech: NVIDIA, Meta, Investors: LB Investment, Kakao Enterprise, Domestic: Samsung Card, KB Securities, Mirae Asset Securities, Samsung Life Insurance, F\&F, Global: Kyushu Electric Power, PSG.
 - Development of a low-voltage driving CMUT-based ring-type ultrasound imaging sensor for a next-generation medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
 - Smartphone-based multimode image classification and segmentation for early dental caries using machine learning, **Seoul National University Dental Hospital**, <font size="3">Apr. 2020 - Feb. 2022</font>
 - Intelligent smartphone-based multimode data analysis for the mobile diagnosis of Otitis Media through machine learning, **Seoul National University Hospital**, <font size="3">Feb. 2020 - Jan. 2022</font>
