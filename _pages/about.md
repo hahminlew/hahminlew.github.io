@@ -72,6 +72,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
   - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
   - Teaching coding and medical image analysis using AI from scratch to high school students for 10 months.
+  - 3D Physical computing for real-world interactable design in medical applications.
 - Product Manager, **Class101**, Ulsan, South Korea, <font size="3">June 2017 - July 2017</font>
   - Tutor matching service management through data analysis.
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - June 2017</font>
@@ -93,6 +94,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Building a core production-level head swapping framework, **Klleon**, <font size="3">Oct.2022 - Dec.2022</font>
   - Implementing and reproducing baseline from scratch that has no code. Design optimal solutions to achieve performance at product-applicable levels.
 - Development of a low-voltage driving CMUT-based ring-type ultrasound imaging sensor for a next-generation medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
+  - Project management for the hospital (Yonsei Severance Hospital), research institutes (KAIST, DGIST), and the company (Endolfin) as a person in charge of practical affairs.
 - Smartphone-based multimode image classification and segmentation for early dental caries using machine learning, **Seoul National University Dental Hospital**, <font size="3">Apr. 2020 - Feb. 2022</font>
 - Intelligent smartphone-based multimode data analysis for the mobile diagnosis of Otitis Media through machine learning, **Seoul National University Hospital**, <font size="3">Feb. 2020 - Jan. 2022</font>
 - Multimode data registration and analysis for tumor/cancer detection, **Kyungpook National University Chilgok Hospital**, <font size="3">Mar. 2019 - Oct. 2020</font>
