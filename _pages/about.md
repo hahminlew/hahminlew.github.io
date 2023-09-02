@@ -87,7 +87,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Projects
 - Construction of a 3D Facial Action Coding System (3D FACS), **Klleon**, <font size="3">June 2023 - present</font>
-  - Data-centric research and 3D parameterized model engineering.
+  - Data-centric research for photo-realistic facial rendering via 3D parameterized model engineering.
 - Development of a state-of-the-art ML-based head swapping pipeline, **Klleon**, <font size="3">Dec.2022 - June 2023</font>
   - Full cycle experience from the problem statement, data preprocessing and construction, ML model design, training and evaluation, result serving and improvement.
   - Achievements: Core-contributed to raise a $4.5m series A round.
