@@ -102,7 +102,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Aligned depth-wise data to corresponding surface-wise data through vector calculations.
   - Conducted quantitative analysis of multimode data for tumor characterization.
 - Development of a 1-D times-series monitoring algorithm, **Seoul National University Hospital**, <font size="3">Mar. 2019 - Aug. 2021</font>
-  - Developed an advanced 1-D time-series signal processing algorithm.
+  - Developed an advanced 1-D time-series signal processing algorithm that is complementary for both zero-crossing and cross-correlation algorithms.
   - Achievement: First author of peer-reviewed SCIE publications.
 
 <!-- ## Acamdeic Services
