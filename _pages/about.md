@@ -70,7 +70,8 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
-  - Multimodal data analysis by employing ML algorithms (Multilayer perceptron, Random forest, Logistic regression, Decision trees, Naïve Bayes).
+  - ML-based anomaly detection for various biomedical applications under multimodal, class-imbalance, and multitask problems.
+  - Frequency-domain translation for substantial and informative data creation using generative modeling.
   - Developed a novel 1-D time-series signal processing algorithm for biomedical monitoring system.
   - 3D Physical computing for real-world interactable design in medical applications.
   - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
@@ -84,7 +85,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - **[(Best Project Award)](https://hahminlew.github.io/awards/)**
 
 
-## Projects
+<!-- ## Projects
 - Construction of a 3D Facial Action Coding System (3D FACS), **Klleon**, <font size="3">June 2023 - present</font>
   - Data-centric research for photo-realistic facial rendering via 3D parameterized model engineering.
 - Development of a state-of-the-art ML-based head swapping pipeline, **Klleon**, <font size="3">Dec. 2022 - June 2023</font>
@@ -102,7 +103,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Conducted quantitative analysis of multimode data for tumor characterization.
 - Development of a 1-D times-series monitoring algorithm, **Seoul National University Hospital**, <font size="3">Mar. 2019 - Aug. 2021</font>
   - Developed an advanced 1-D time-series signal processing algorithm that is complementary for both zero-crossing and cross-correlation algorithms.
-  - Achievement: First author of peer-reviewed SCIE publications.
+  - Achievement: First author of peer-reviewed SCIE publications. -->
 
 <!-- ## Acamdeic Services
 - Conference Reviewer
