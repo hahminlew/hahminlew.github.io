@@ -66,13 +66,14 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - ML model engineering for image and video synthesis through generative modeling using implicit, score-based, and 3D-aware methods. Worked on [Chroma-HS](https://hahminlew.github.io/chromahs/) by employing Vision Transformer (ViT).
+  - ML model engineering for generative modeling through implicit, score-based, and 3D-aware methods. Worked on [Chroma-HS](https://hahminlew.github.io/chromahs/).
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
-  - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
-  - Teaching coding and medical image analysis using AI from scratch to high school students for 10 months.
+  - Multimodal data analysis by employing ML algorithms (Multilayer perceptron, Random forest, Logistic regression, Decision trees, Naïve Bayes).
+  - Developed a novel 1-D time-series signal processing algorithm for biomedical monitoring system.
   - 3D Physical computing for real-world interactable design in medical applications.
+  - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
 - Product Manager, **Class101**, Ulsan, South Korea, <font size="3">June 2017 - July 2017</font>
   - Tutor matching service management through data analysis.
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - June 2017</font>
@@ -88,17 +89,23 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 ## Projects
 - Construction of a 3D Facial Action Coding System (3D FACS), **Klleon**, <font size="3">June 2023 - present</font>
   - Data-centric research for photo-realistic facial rendering via 3D parameterized model engineering.
-- Development of a state-of-the-art ML-based head swapping pipeline, **Klleon**, <font size="3">Dec.2022 - June 2023</font>
+- Development of a state-of-the-art ML-based head swapping pipeline, **Klleon**, <font size="3">Dec. 2022 - June 2023</font>
   - Full cycle experience from the problem statement, data preprocessing and construction, ML model design, training and evaluation, result serving and improvement.
   - Achievements: Core-contributed to raise a $4.5m series A round.
-- Building a core production-level head swapping framework, **Klleon**, <font size="3">Oct.2022 - Dec.2022</font>
+- Building a core production-level head swapping framework, **Klleon**, <font size="3">Oct. 2022 - Dec. 2022</font>
   - Implementing and reproducing baseline from scratch that has no code. Design engineering solutions to achieve performance at product-applicable levels.
 - Development of a low-voltage driving CMUT-based ring-type ultrasound imaging sensor for a next-generation medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
-  - Project management for the hospital (Yonsei Severance Hospital), research institutes (KAIST, DGIST), and the company (Endolfin) as a person in charge of practical affairs.
 - Smartphone-based multimode image classification and segmentation for early dental caries using machine learning, **Seoul National University Dental Hospital**, <font size="3">Apr. 2020 - Feb. 2022</font>
 - Intelligent smartphone-based multimode data analysis for the mobile diagnosis of Otitis Media through machine learning, **Seoul National University Hospital**, <font size="3">Feb. 2020 - Jan. 2022</font>
+  - Constructed and processed multimode dataset.
+  - Evaluated ML models using standard metrics (F1 score, AUC, Accuracy).
 - Multimode data registration and analysis for tumor/cancer detection, **Kyungpook National University Chilgok Hospital**, <font size="3">Mar. 2019 - Oct. 2020</font>
-- Smart monitoring system for hip implant liner, **Daegu Catholic University Medical Center**, <font size="3">Mar. 2019 - May 2021</font>
+  - Fixation and H\&E staining for human tumor tissues.
+  - Aligned depth-wise data to corresponding surface-wise data through vector calculations.
+  - Conducted quantitative analysis of multimode data for tumor characterization.
+- Development of a 1-D times-series monitoring algorithm, **Seoul National University Hospital**, <font size="3">Mar. 2019 - Aug. 2021</font>
+  - Developed an advanced 1-D time-series signal processing algorithm.
+  - Achievement: First author of peer-reviewed SCIE publications.
 
 <!-- ## Acamdeic Services
 - Conference Reviewer
