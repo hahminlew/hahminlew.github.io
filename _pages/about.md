@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on computer vision and ML engineering. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent projects are as follows:
+My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on data science, computer vision and ML engineering. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent projects are as follows:
  - 3D Parameterized Modeling
  - Neural Talking Head Synthesis
  - Head Swapping
@@ -74,10 +74,8 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Developed a novel 1-D time-series signal processing algorithm for biomedical monitoring system.
   - 3D Physical computing for real-world interactable design in medical applications.
   - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
-- Product Manager, **Class101**, Ulsan, South Korea, <font size="3">June 2017 - July 2017</font>
-  - Tutor matching service management through data analysis.
-- Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - June 2017</font>
-  - Founded a data-driven one-on-one customized tutor matching service company.
+- Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - July 2017</font>
+  - Founded a data-driven one-on-one customized tutor matching service company. Co-working with **Class101** .
 
 
 ## Education
