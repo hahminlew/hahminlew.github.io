@@ -95,8 +95,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Development of a low-voltage driving CMUT-based ring-type ultrasound imaging sensor for a next-generation medibot, **Yonsei Severance Hospital**, <font size="3">Sep. 2020 - Dec. 2022</font>
 - Smartphone-based multimode image classification and segmentation for early dental caries using machine learning, **Seoul National University Dental Hospital**, <font size="3">Apr. 2020 - Feb. 2022</font>
 - Intelligent smartphone-based multimode data analysis for the mobile diagnosis of Otitis Media through machine learning, **Seoul National University Hospital**, <font size="3">Feb. 2020 - Jan. 2022</font>
-  - Constructed and processed multimode dataset.
-  - Evaluated ML models using standard metrics (F1 score, AUC, Accuracy).
+  - Mobile diagnosis via ML models for multimode human samples using standard metrics.
 - Multimode data registration and analysis for tumor/cancer detection, **Kyungpook National University Chilgok Hospital**, <font size="3">Mar. 2019 - Oct. 2020</font>
   - Fixation and H\&E staining for human tumor tissues.
   - Aligned depth-wise data to corresponding surface-wise data through vector calculations.
