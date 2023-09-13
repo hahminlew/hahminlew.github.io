@@ -9,10 +9,10 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on data science, computer vision and ML engineering. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent projects are as follows:
- - 3D Parameterized Modeling
+My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on computer vision and ML engineering. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent projects are as follows:
+ - Explicit Controllable 3D Parameterized Modeling
  - Neural Talking Head Synthesis
- - Head Swapping
+ - Face & Head Swapping
  - Image Animation
 
 
@@ -69,9 +69,9 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - ML model engineering for generative modeling through implicit, score-based, and 3D-aware methods. Worked on [Chroma-HS](https://hahminlew.github.io/chromahs/).
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
-  - 8 paper works, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
+  - 6 SCIE publications, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
   - ML-based anomaly detection for various biomedical applications under multimodal, class-imbalance, and multitask problems.
-  - Frequency-domain translation for substantial and informative data creation using generative modeling.
+  - Frequency-domain translation for substantial and informative data creation through generative models.
   - Developed a novel 1-D time-series signal processing algorithm for biomedical monitoring system.
   - 3D Physical computing for real-world interactable design in medical applications.
   - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
