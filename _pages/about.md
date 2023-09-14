@@ -17,6 +17,11 @@ My interest is to solve data-driven valuable real-world problems through AI / ML
 
 
 ## Conference Publications
+- **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
+  [[paper]](https://arxiv.org/abs/2309.06770) \\
+<span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang \\
+<span style="color:indianred">**Arxiv Preprint**</span> 2023
+
 - **<font size="4">Towards High-Fidelity Head Swapping with Chroma Keying</font>**
   [[project page]](https://hahminlew.github.io/chromahs/) \\
 <span style="color:lightsalmon">**Hah Min Lew**</span>, Sahng-Min Yoo, Hyunwoo Kang, and Gyeong-Moon Park \\
