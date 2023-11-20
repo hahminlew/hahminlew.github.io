@@ -18,15 +18,15 @@ My interest is to solve data-driven valuable real-world problems through AI / ML
 
 
 ## Conference Publications
-- **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
-  [[paper]](https://arxiv.org/abs/2309.06770) \\
-<span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang \\
-<span style="color:indianred">**Arxiv Preprint**</span> 2023
-
 - **<font size="4">Towards High-Fidelity Head Swapping with Chroma Keying</font>**
   [[project page]](https://hahminlew.github.io/chromahs/) \\
-<span style="color:lightsalmon">**Hah Min Lew**</span>, Sahng-Min Yoo, Hyunwoo Kang, and Gyeong-Moon Park \\
-In Subimission Soon
+<span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font>\\
+Under Review 
+
+- **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
+  [[paper]](https://arxiv.org/abs/2309.06770) \\
+<span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang <font size="3">(* equal contribution)</font>\\
+<span style="color:indianred">**Arxiv Preprint**</span> 2023
 
 - **<font size="4">CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**
 [[paper]](https://openaccess.thecvf.com/content/ACCV2022/html/Lee_CSS-Net_Classification_and_Substitution_for_Segmentation_of_Rotator_Cuff_Tear_ACCV_2022_paper.html) \\
