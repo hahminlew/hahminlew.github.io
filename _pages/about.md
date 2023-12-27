@@ -70,7 +70,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - Building a dataset construction pipeline and a generative model for virtual human creation.
+  - Building a dataset construction pipeline and a generative model framework for virtual human creation.
   - Task: Vector Quantization, Text-to-Image Generation, ML-based Image Captioning, Head Swapping, Neural Talking Head Synthesis, Explicit Controllable 3D Parameterized Modeling.
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
