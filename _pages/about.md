@@ -72,7 +72,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
   - Worked on [digital human projects](https://hahminlew.github.io/chromahs/). 
   - Vector Quantization, Text-to-Image Generation, ML-based Image Captioning.
-  - Face & Head Swapping, Neural Talking Head Synthesis, Explicit Controllable 3D Parameterized Modeling.
+  - Head Swapping, Neural Talking Head Synthesis, Explicit Controllable 3D Parameterized Modeling.
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 6 SCIE publications, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
