@@ -9,7 +9,10 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on computer vision and ML engineering. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent interests are as follows:
+I believe a data-driven approach leading to ML systems can solve valuable real-world problems.
+In order to create a working business with a clarified problem, I value building efficient ML systems with open-sourcing through agile trials and errors.
+Proactively growing, challenging, and sharing are my core values and attitude toward my life.
+My recent interests are as follows:
  - Diffusion Model
  - Multimodal Learning
  - Finetuning
