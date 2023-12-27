@@ -9,12 +9,11 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on computer vision and ML engineering. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent projects are as follows:
- - Explicit Controllable 3D Parameterized Modeling
- - Neural Talking Head Synthesis
+My interest is to solve data-driven valuable real-world problems through AI / ML systems, currently based on computer vision and ML engineering. I’m a curious and challenging spirit, and proactively seeking opportunities to grow and share my knowledge. My recent interests are as follows:
  - Diffusion Model
- - Face & Head Swapping
- - Image Animation
+ - Multimodal Learning
+ - Finetuning
+ - Vector Quantization
 
 
 ## Conference Publications
@@ -35,10 +34,6 @@ Kyungsu Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Moon Hwan L
 
 
 ## Journal Publications
-- **<font size="4">Fine-Tuning Network in Federated Learning for Personalized Skin Diagnosis</font>**\\
-Kyungsu Lee, Sewoong Kim, Thiago Coutinho Cavalcanti, <span style="color:lightsalmon">**Hah Min Lew**</span>, Moon Hwan Lee, Haeyun Lee, Jonghye Woo, Georges El Fakhri, Jay Kuo, Dae Hun Suh, Dong Hun Lee, and Jae Youn Hwang \\
-In Submission, <span style="color:slateblue">**IEEE Journal of Biomedical and Health Informatics**</span> (IF: 7.021) 
-
 - **<font size="4">Deep learning-based framework for fast and accurate acoustic hologram generation</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9939026) \\
 Moon Hwan Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Sangyeon Youn, Tae Kim, and Jae Youn Hwang \\
@@ -73,6 +68,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
   - Worked on [digital human projects](https://hahminlew.github.io/chromahs/). 
+  - Vector Quantization, Text-to-Image Generation, ML-based Image Captioning.
   - Face & Head Swapping, Neural Talking Head Synthesis, Explicit Controllable 3D Parameterized Modeling.
 - Graduate Researcher, **[AI Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
