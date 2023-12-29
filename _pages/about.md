@@ -75,7 +75,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 6 SCIE publications, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
-  - ML-based anomaly labeling for various biomedical applications under multimodal, class-imbalance, and multitask problems.
+  - ML-based anomaly labeling and generative model design for various biomedical applications under multimodal, class-imbalance, and multi-task problems.
   - Frequency-domain translation for substantial and informative data creation through generative models.
   - Developed a novel 1-D time-series signal processing algorithm for biomedical monitoring system.
   - 3D Physical computing for real-world interactable design in medical applications.
