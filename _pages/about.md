@@ -9,8 +9,8 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-A data-centric approach leading to ML systems can solve valuable real-world problems.
-In order to create a working business with a clarified problem, I value building efficient ML systems with open-sourcing through agile trials and errors.
+Data-centric approaches leading to ML systems can solve valuable real-world problems.
+I value building efficient systems with open-sourcing through agile trials and errors based on a clarified problem.
 Proactively growing, challenging, and sharing are my core values and attitude toward my life.
 My recent projects are as follows:
  - Virtual Human Dialogue System
