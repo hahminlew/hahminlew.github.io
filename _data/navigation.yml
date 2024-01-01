@@ -3,15 +3,15 @@ main:
   - title: "Home"
     url: https://hahminlew.github.io/
   - title: "Posts"
-    url: /paper-reviews/
+    url: https://hahminlew.github.io/paper-reviews/
   - title: "Awards"
-    url: /awards/
+    url: https://hahminlew.github.io/awards/
   - title: "CV"
-    url: "images/HahMinLew_CV.pdf"
+    url: https://hahminlew.github.io/images/HahMinLew_CV.pdf
   - title: "Project Pages"
     sublinks:
       - title: Chroma-HS
-        url: /chromahs/
+        url: https://hahminlew.github.io/chromahs/
 #  - title: "Publications"
 #    url: /#conference-publications
   #  - title: Test
