@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://hahminlew.github.io/
   - title: "Posts"
-    url: https://hahminlew.github.io/paper-reviews/
+    url: /paper-reviews/
   - title: "Awards"
     url: https://hahminlew.github.io/awards/
   - title: "CV"
