@@ -81,7 +81,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - 3D Physical computing for real-world interactable design in medical applications.
   - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - July 2017</font>
-  - Founded a data-driven one-on-one customized tutor matching service company. Co-working with **Class101** .
+  - Founded a data-driven personalized tutor matching service company. Co-working with **Class101** .
 
 
 ## Education
