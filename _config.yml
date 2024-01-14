@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Hah Min Lew"
-  avatar           : "/images/profile.jpeg"
+  avatar           : "/images/profile.jpg"
   bio              : "AI Researcher at Klleon"
   location         : "Seoul, South Korea"
   links:
