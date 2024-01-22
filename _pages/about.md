@@ -70,7 +70,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - Building a data construction pipeline and generative model frameworks for a virtual human dialogue system.
+  - Building data preprocessing and construction pipelines and generative model frameworks for a virtual human dialogue system.
   - Tasks: Vector Quantization, Text-to-Image Generation, ML-based Image Captioning, Head Swapping, Neural Talking Head Synthesis, Explicit Controllable 3D Parameterized Modeling.
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
@@ -79,7 +79,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Frequency-domain translation for substantial and informative data creation through generative models.
   - Developed a novel 1-D time-series signal processing algorithm for biomedical monitoring system.
   - 3D Physical computing for real-world interactable design in medical applications.
-  - Collaborative research experiences with medical doctors from SNUH, SNUDH, Severance, etc. 
+  - Collaborative research experiences with medical doctors (e.g., SNUH, SNUDH, Yonsei Severance). 
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - July 2017</font>
   - Founded a data-driven personalized tutor matching service company. Co-working with **Class101** .
 
