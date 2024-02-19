@@ -10,7 +10,7 @@ redirect_from:
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
 Data-centric approaches leading to ML systems can solve valuable real-world problems.
-I value building efficient systems with open-sourcing through agile trials and errors based on a clarified problem.
+I value building efficient systems through agile trials and errors based on a clarified problem.
 Proactively growing, challenging, and sharing are my core values and attitude toward my life.
 My recent projects are as follows:
  - Virtual Human Dialogue System
@@ -76,16 +76,15 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 6 SCIE publications, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
   - ML-based anomaly labeling and generative model design for various biomedical applications under multimodal, class-imbalance, and multi-task problems.
-  - Frequency-domain translation for substantial and informative data creation through generative models.
-  - Developed a novel 1-D time-series signal processing algorithm for biomedical monitoring system.
-  - 3D Physical computing for real-world interactable design in medical applications.
+  - Development of application-specific systems integrating hardware and software.
+  - Advanced signal processing and computer vision skills.
   - Collaborative research experiences with medical doctors (e.g., SNUH, SNUDH, Yonsei Severance). 
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - July 2017</font>
   - Founded a data-driven personalized tutor matching service company. Co-working with **Class101** .
 
 
 ## Education
-- **M.S.** in Electrical Engineering & Computer Science, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2021</font> 
+- **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2021</font> 
 
 - **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - **[(Best Project Award)](https://hahminlew.github.io/awards/)**
 
