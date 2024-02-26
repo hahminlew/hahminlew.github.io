@@ -25,6 +25,10 @@ My recent projects are as follows:
 <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
 <span style="color:indianred">**Under Review in CVPR**</span> 2024
 
+- **<font size="4">Synthetic High-Resolution In-Depth Ultrasound Imaging via Test-time Adaptation with an Attachable Dual-Element Endoscopic Ultrasound Probe</font>**
+Moon Hwan Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jae Seong Kim, Jaegeun Park, Sangyeon Youn, Jihun Kim, Hee Man Kim, and Jae Youn Hwang \\
+<span style="color:indianred">**In Submission in MICCAI**</span> 2024
+
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
 <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang <font size="3">(* equal contribution)</font>\\
