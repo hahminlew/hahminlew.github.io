@@ -26,6 +26,7 @@ My recent projects are as follows:
 <span style="color:indianred">**Under Review in CVPR**</span> 2024
 
 - **<font size="4">Synthetic High-Resolution In-Depth Ultrasound Imaging via Test-time Adaptation with an Attachable Dual-Element Endoscopic Ultrasound Probe</font>**
+\\
 Moon Hwan Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jae Seong Kim, Jaegeun Park, Sangyeon Youn, Jihun Kim, Hee Man Kim, and Jae Youn Hwang \\
 <span style="color:indianred">**In Submission in MICCAI**</span> 2024
 
