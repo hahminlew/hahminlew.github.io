@@ -20,10 +20,10 @@ My recent projects are as follows:
 
 
 ## Conference Publications
-- **<font size="4">Towards High-Fidelity Head Swapping with Chroma Keying</font>**
+- **<font size="4">Chroma-HS: High-Fidelity Industrial Head Swapping with Chroma Keying</font>**
   [[project page]](https://hahminlew.github.io/chromahs/) \\
 <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
-In Submission soon
+<span style="color:indianred">**In Submission to ECCV**</span> 2024 
 
 - **<font size="4">Synthetic High-Resolution In-Depth Ultrasound Imaging via Test-time Adaptation with an Attachable Dual-Element Endoscopic Ultrasound Probe</font>**
 \\
