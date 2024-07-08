@@ -12,23 +12,17 @@ I'm an AI Researcher at [Klleon](https://klleon.io/).
 Data-centric approaches leading to ML systems can solve valuable real-world problems.
 I value building efficient systems through agile trials and errors based on a clarified problem.
 Proactively growing, challenging, and sharing are my core values and attitude toward my life.
-My recent projects are as follows:
+My recent works are as follows:
  - Virtual Human Dialogue System
- - Diffusion Model
- - Finetuning
- - Vector Quantization
+ - ML System Optimization
+ - Efficient Data Pipeline Construction
 
 
 ## Conference Publications
 - **<font size="4">Chroma-HS: High-Fidelity Industrial Head Swapping with Chroma Keying</font>**
   [[project page]](https://hahminlew.github.io/chromahs/) \\
 <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
-<span style="color:indianred">**In Submission to ECCV**</span> 2024 
-
-- **<font size="4">Synthetic High-Resolution In-Depth Ultrasound Imaging via Test-time Adaptation with an Attachable Dual-Element Endoscopic Ultrasound Probe</font>**
-\\
-Moon Hwan Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jae Seong Kim, Jaegeun Park, Sangyeon Youn, Jihun Kim, Hee Man Kim, and Jae Youn Hwang \\
-<span style="color:indianred">**In Submission to MICCAI**</span> 2024
+<span style="color:indianred">**In Submission to WACV**</span> 2025
 
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
@@ -75,8 +69,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - Building efficient data preprocessing pipelines and generative models for a virtual human dialogue system.
-  - Tasks: Vector Quantization, Text-to-Image Generation, ML-based Image Captioning, Head Swapping, Neural Talking Head Synthesis, Explicit Controllable 3D Parameterized Modeling.
+  - Building efficient data pipelines and generative models for a virtual human dialogue system.
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 6 SCIE publications, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
