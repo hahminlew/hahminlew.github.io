@@ -22,7 +22,7 @@ My recent works are as follows:
 - **<font size="4">Chroma-HS: High-Fidelity Industrial Head Swapping with Chroma Keying</font>**
   [[project page]](https://hahminlew.github.io/chromahs/) \\
 <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
-<span style="color:indianred">**In Submission to WACV**</span> 2025
+<span style="color:indianred">**In submission soon**</span>
 
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
