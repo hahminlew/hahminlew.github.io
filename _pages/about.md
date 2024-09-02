@@ -9,6 +9,9 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
+Experienced AI Researcher with a robust background in machine learning, deep learning, and generative AI. 
+Proficient in Python and PyTorch, with extensive hands-on experience in deploying AI models on multi-GPU systems. Prioritizes company success and customer satisfaction through innovative, high-impact solutions.
+
 Passionate about building efficient AI-driven solutions that tackle diverse real-world challenges. 
 Committed to continuous learning, innovative problem-solving, and proactive communication and collaboration with cross-functional teams to drive technological advancements. 
 Eager to leverage my expertise in machine learning, generative AI fundamentals, and programming to help customers achieve their goals using cutting-edge technologies. 
