@@ -9,9 +9,10 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-Data-centric approaches leading to ML systems can solve valuable real-world problems.
-I value building efficient systems through agile trials and errors based on a clarified problem.
-Proactively growing, challenging, and sharing are my core values and attitude toward my life.
+Passionate about building efficient AI-driven solutions that tackle diverse real-world challenges. 
+Committed to continuous learning, innovative problem-solving, and effective communication and collaboration with cross-functional teams to drive technological advancements. 
+Eager to leverage my expertise in machine learning, generative AI fundamentals, and programming to help customers achieve their goals using cutting-edge technologies. 
+
 My recent works are as follows:
  - Virtual Human Dialogue System
  - ML System Optimization
