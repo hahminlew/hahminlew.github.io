@@ -16,7 +16,7 @@ I'm an AI Researcher at [Klleon](https://klleon.io/).
 
 Passionate about building efficient AI-driven solutions that tackle diverse real-world challenges. 
 Committed to continuous learning, innovative problem-solving, and proactive communication and collaboration with cross-functional teams to drive technological advancements. 
-Eager to leverage my expertise in machine learning, generative AI, and programming to help customers achieve their goals using cutting-edge technologies. 
+Prioritizes company benefits and customer satisfaction.
 
 My recent works are as follows:
  - Virtual Human Dialogue System
