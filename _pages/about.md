@@ -9,13 +9,13 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-- AI Researcher in Klleon for 2 years involved in diverse creative digital human projects (Generative AI).
-- M.S. degree in Electrical Engineering and Computer Science with 3.5 years of Machine/Deep Learning, Signal/Image Processing, and Data Analysis.
+- AI Researcher at Klleon for 2 years, involved in various creative digital human projects (Generative AI).
+- M.S. degree in Electrical Engineering and Computer Science, with 3.5 years of experience in Machine/Deep Learning, Signal/Image Processing, and Data Analysis.
 - Teamworked for over 13 projects using programming (Proficient in Python and PyTorch).
-- Experience as the co-founder of a data-driven startup.
+- Co-founded a data-driven startup with hands-on entrepreneurial experience.
 
-Passionate about building efficient AI-driven solutions that tackle diverse real-world challenges. 
-Committed to continuous learning, innovative problem-solving, and proactive communication and collaboration with cross-functional teams to drive business impacts and customer satisfaction. 
+Passionate about developing efficient AI-driven solutions to address diverse real-world challenges. 
+Committed to continuous learning, innovative problem-solving, and proactive communication and collaboration with cross-functional teams to drive business impact and customer satisfaction.
 
 My recent works are as follows:
  - Virtual Human Dialogue System
