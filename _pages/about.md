@@ -15,8 +15,7 @@ I'm an AI Researcher at [Klleon](https://klleon.io/).
 - Experience as the co-founder of a data-driven startup.
 
 Passionate about building efficient AI-driven solutions that tackle diverse real-world challenges. 
-Committed to continuous learning, innovative problem-solving, and proactive communication and collaboration with cross-functional teams to drive technological advancements. 
-Prioritizes company benefits and customer satisfaction.
+Committed to continuous learning, innovative problem-solving, and proactive communication and collaboration with cross-functional teams to drive company success and customer satisfaction. 
 
 My recent works are as follows:
  - Virtual Human Dialogue System
