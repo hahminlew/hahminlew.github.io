@@ -85,6 +85,8 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - Collaborative research experiences with medical doctors (e.g., SNUH, SNUDH, Yonsei Severance). 
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - July 2017</font>
   - Founded a data-driven personalized tutor matching service company. Co-working with **Class101** .
+  - Organized a matching database of tutor characteristics.
+  - Established tutor qualification system based on evaluation metrics.
 
 
 ## Education
