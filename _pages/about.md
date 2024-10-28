@@ -27,7 +27,7 @@ My recent works are as follows:
 - **<font size="4">Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications</font>**
   [[project page]](https://hahminlew.github.io/changer/) \\
 <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
-<span style="color:indianred">**In submission to WACV**</span> 2025
+<span style="color:indianred">**WACV**</span> 2025
 
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
