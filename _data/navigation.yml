@@ -10,10 +10,11 @@ main:
     url: https://hahminlew.github.io/images/HahMinLew_CV.pdf
   - title: "Project Pages"
     sublinks:
-      - title: CHANGER
-        url: https://hahminlew.github.io/changer/
       - title: GeoAvatar
         url: https://hahminlew.github.io/geoavatar/
+      - title: CHANGER
+        url: https://hahminlew.github.io/changer/
+      
 #  - title: "Publications"
 #    url: /#conference-publications
   #  - title: Test
