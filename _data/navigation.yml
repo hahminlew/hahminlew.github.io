@@ -12,6 +12,8 @@ main:
     sublinks:
       - title: CHANGER
         url: https://hahminlew.github.io/changer/
+      - title: GeoAvatar
+        url: https://hahminlew.github.io/geoavatar/
 #  - title: "Publications"
 #    url: /#conference-publications
   #  - title: Test
