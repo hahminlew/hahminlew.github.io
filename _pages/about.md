@@ -9,18 +9,18 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-- AI Researcher at Klleon for 2 years, involved in various creative digital human projects (Generative AI).
-- M.S. degree in Electrical Engineering and Computer Science, with 3.5 years of experience in Machine/Deep Learning, Signal/Image Processing, and Data Analysis.
-- Teamworked for over 13 projects using programming (Proficient in Python and PyTorch).
-- Co-founded a data-driven startup with hands-on entrepreneurial experience.
+- AI Researcher with 2+ years at Klleon, specializing in Generative AI for digital humans.
+- M.S. in Electrical Engineering and Computer Science, with expertise in Machine/Deep Learning, Signal/Image Processing, and Data Analysis.
 
-Passionate about developing efficient AI-driven solutions to address diverse real-world challenges. 
-Committed to continuous learning, innovative problem-solving, and proactive communication and collaboration with cross-functional teams to drive business impact and customer satisfaction.
+Currently leading research in audio-driven 3DMM generation, enabling lifelike avatar movements and lip-sync. Exploring text-driven multimodal 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
 
-My recent works are as follows:
- - Virtual Human Dialogue System
- - ML System Optimization
- - Efficient Data Pipeline Construction
+Passionate about impactful AI solutions and collaboration across teams.
+
+Featured Projects:
+• Audio-driven 3DMM Generation
+• Multimodal 3DMM Research
+• Photorealistic Human Head Rendering
+• Virtual Human Dialogue System
 
 
 ## Conference Publications
@@ -79,8 +79,10 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - Building efficient data pipelines and generative models for a virtual human dialogue system.
-  - Integrating external APIs (NVIDIA Audio2face, OpenAI ChatGPT, TTS) and an in-house generative head avatar model for a live streaming chat avatar service.
+  - Researching audio- and text-driven 3DMM generation for virtual avatars with natural human-like expressions and movements.
+  - Developed generative models leveraging Gaussian Splatting for photorealistic head rendering.
+  - Built efficient data pipelines for real-time applications in virtual human systems.
+  - Integrated external APIs (NVIDIA Audio2Face, OpenAI ChatGPT, TTS) into a streaming avatar system.
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 6 SCIE publications, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
