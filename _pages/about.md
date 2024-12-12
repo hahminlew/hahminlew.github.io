@@ -86,9 +86,8 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 6 SCIE publications, 7 international conferences, 9 projects, 6 patents, and [2 awards](https://hahminlew.github.io/awards/).
-  - ML-based anomaly labeling and generative model design for various biomedical applications under multimodal, class-imbalance, and multi-task problems.
-  - Development of application-specific systems integrating hardware and software.
-  - Advanced signal processing and computer vision skills.
+  - Designed ML-based anomaly labeling systems and generative models for biomedical imaging under class-imbalance and multi-task scenarios.
+  - Developed hardware-software integrated systems for application-specific use cases.
   - Collaborative research experiences with medical doctors (e.g., SNUH, SNUDH, Yonsei Severance). 
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - July 2017</font>
   - Founded a data-driven personalized tutor matching service company. Co-working with **Class101** .
