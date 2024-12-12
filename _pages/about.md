@@ -80,7 +80,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
   - Researching audio- and text-driven 3DMM generation for virtual avatars with natural human-like expressions and movements.
-  - Developed photorealistic head rendering using Gaussian Splatting, outperforming 5 state-of-the-art models. (MSE ↓59.96%, PSNR ↑4.41dB, SSIM ↑3.85%, LPIPS ↓38.16%)
+  - Developed photorealistic head rendering model using Gaussian Splatting, outperforming 5 state-of-the-art models. (MSE ↓59.96%, PSNR ↑4.41dB, SSIM ↑3.85%, LPIPS ↓38.16%)
   - Built efficient data pipelines for real-time applications in virtual human systems.
   - Integrated external APIs (NVIDIA Audio2Face, OpenAI ChatGPT, TTS) into a streaming avatar system.
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
