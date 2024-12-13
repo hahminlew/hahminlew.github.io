@@ -17,7 +17,7 @@ Currently leading research in audio-driven 3DMM generation, enabling lifelike av
 Passionate about impactful AI solutions and collaboration across teams.
 
 Featured Projects:
-• Audio-driven 3DMM Generation
+Audio-driven 3DMM Generation
 • Multimodal 3DMM Research
 • Photorealistic Human Head Rendering
 • Virtual Human Dialogue System
