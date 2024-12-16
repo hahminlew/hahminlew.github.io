@@ -12,7 +12,7 @@ I'm an AI Researcher at [Klleon](https://klleon.io/).
 - AI Researcher with 2+ years at Klleon, specializing in Generative AI for digital humans.
 - M.S. in Electrical Engineering and Computer Science, with expertise in Machine/Deep Learning, Signal/Image Processing, and Data Analysis.
 
-Currently leading research in audio-driven 3DMM generation, enabling lifelike avatar movements and lip-sync. Exploring text-driven multimodal 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
+Currently leading research in audio-driven 3DMM generation, enabling lifelike avatar movements and lip-sync. Exploring multimodal-driven 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
 
 Passionate about impactful AI solutions and collaboration across teams.
 
