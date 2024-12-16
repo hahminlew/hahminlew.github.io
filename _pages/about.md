@@ -18,7 +18,7 @@ Passionate about impactful AI solutions and collaboration across teams.
 
 Featured Projects:
 Audio-driven 3DMM Generation
-• Multimodal 3DMM Research
+• Multimodal 3DMM Generation
 • Photorealistic Human Head Rendering
 • Virtual Human Dialogue System
 
