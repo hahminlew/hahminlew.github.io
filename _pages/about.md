@@ -14,7 +14,7 @@ I'm an AI Researcher at [Klleon](https://klleon.io/).
 
 Currently leading research in audio-driven 3DMM generation, enabling lifelike avatar movements and lip-sync. Exploring multimodal-driven 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
 
-Delivering scalable AI solutions with applied innovation and measurable real‑world impact.
+"Bridging AI research and scalable solutions for measurable real-world impact."
 
 Featured Projects:
 Audio-driven 3DMM Generation
