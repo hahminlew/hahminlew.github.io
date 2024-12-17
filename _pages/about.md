@@ -89,7 +89,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
   - 6 SCIE publications, 7 international conferences, 9 projects, 4 patents, and [2 awards](https://hahminlew.github.io/awards/).
   - Designed machine learning-based anomaly detection systems and generative models for biomedical imaging, focusing on multimodal, class-imbalance, and multi-task learning.
   - Developed hardware-software integrated systems for application-specific use cases.
-  - Collaborated with medical doctors from hospitals, including SNUH, SNUDH, and Yonsei Severance.
+  - Collaborative research with medical doctors from hospitals, including SNUH, SNUDH, and Yonsei Severance.
 - Co-founder, **LANTERN**, Daegu, South Korea, <font size="3">Nov. 2016 - July 2017</font>
   - Founded a data-driven personalized tutor matching service company in collaboration with Class101.
   - Designed a matching database system and established tutor evaluation metrics for personalized recommendations.
