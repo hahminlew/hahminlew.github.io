@@ -81,9 +81,9 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
   - Researching audio- and text-driven 3DMM generation for virtual avatars with natural human-like expressions and movements.
   - Developed photorealistic head rendering model using Gaussian Splatting, outperforming 5 state-of-the-art models. (MSE ↓59.96%, PSNR ↑4.41dB, SSIM ↑3.85%, LPIPS ↓38.16%)
-  - Built high-quality multimodal data pipelines, processing 4.86M frames collected from in-the-wild videos. 
+  - Developed a core Head Swap AI model with 212.7x speedup, reducing annual GPU costs from $2.2M to $10.5K, enabling a $97K contract.
+  - Built large-scale multimodal data pipelines (4.86M+ frames from in-the-wild videos).
   - Integrated external APIs (NVIDIA Audio2Face, OpenAI ChatGPT, TTS) into a streaming avatar system, achieving 25-28 FPS performance.
-  - Developed a core Head Swap AI model and collaborated with cross-functional teams, contributing to a $97K customer contract.
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
   - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
   - 6 SCIE publications, 7 international conferences, 9 projects, 4 patents, and [2 awards](https://hahminlew.github.io/awards/).
