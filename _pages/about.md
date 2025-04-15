@@ -10,15 +10,15 @@ redirect_from:
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
 - AI Researcher with 2+ years at Klleon, specializing in Generative AI for digital humans.
-- M.S. in Electrical Engineering and Computer Science, with expertise in Machine/Deep Learning, Signal/Image Processing, and Data Analysis.
+- M.S. in Electrical Engineering and Computer Science, with expertise in Machine/Deep Learning, Signal/Image Processing, and Multimodal Data Analysis in biomedical fields.
 
-Currently leading research in facial 3D avatar generation, enabling lifelike avatar movements and lip-sync. Exploring multimodal-driven 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
+Currently leading research in facial 3D avatar generation, enabling lifelike avatar movements and lip-sync. Exploring efficient 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
 
 "Bridging AI research and scalable solutions for measurable real-world impact."
 
 Featured Projects:
 Audio-driven 3DMM Generation
-• Multimodal 3D Avatar Generation
+• 3D Avatar Generation
 • Photorealistic Human Head Rendering
 • Virtual Human Dialogue System
 
@@ -79,7 +79,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - Researching audio- and text-driven 3DMM generation for virtual avatars with natural human-like expressions and movements.
+  - Developing audio-driven 3DMM generation for virtual avatars with natural human-like expressions and movements. (LVE ↓27.5%, FDD ↓28.9%, MEE ↓27.1%, CE ↓24.1%, Diversity ↑17.7%)
   - Developed photorealistic head rendering model using Gaussian Splatting, outperforming 5 state-of-the-art models. (MSE ↓59.96%, PSNR ↑4.41dB, SSIM ↑3.85%, LPIPS ↓38.16%)
   - Developed a Head Swap AI model with 212.7x speedup, reducing annual GPU costs by 99.53% (from $2.2M to $10.5K).
   - Built large-scale multimodal data pipelines (4.86M+ frames from in-the-wild videos).
