@@ -96,7 +96,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 
 
 ## Education
-- **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2021</font> 
+- **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2022</font> 
 
 - **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - **[(Best Project Award)](https://hahminlew.github.io/awards/)**
 
