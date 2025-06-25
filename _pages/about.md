@@ -24,10 +24,10 @@ Audio-driven 3DMM Generation
 
 
 ## Conference Publications
-<!-- - **<font size="4">GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
+- **<font size="4">GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
   [[project page]](https://hahminlew.github.io/geoavatar/) \\
 SeungJun Moon<sup>*</sup>, <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Seungeun Lee, Ji-Su Kang, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
-In Submission to <span style="color:indianred">**CVPR**</span> 2025 -->
+<span style="color:indianred">**ICCV**</span> 2025
 
 - **<font size="4">Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications</font>**
   [[paper]](https://arxiv.org/abs/2411.00652) [[project page]](https://hahminlew.github.io/changer/) \\
