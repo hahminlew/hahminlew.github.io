@@ -24,49 +24,49 @@ Audio-driven 3DMM Generation
 
 
 ## Conference Publications
-- **<font size="4">\[C3\] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
+- **<font size="4">[C3] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
   [[project page]](https://hahminlew.github.io/geoavatar/) \\
 SeungJun Moon<sup>*</sup>, <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Seungeun Lee, Ji-Su Kang, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
 <span style="color:indianred">**ICCV**</span> 2025
 
-- **<font size="4">\[C2\] Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications</font>**
+- **<font size="4">[C2] Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications</font>**
   [[paper]](https://arxiv.org/abs/2411.00652) [[project page]](https://hahminlew.github.io/changer/) \\
 <span style="color:lightsalmon">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
 <span style="color:indianred">**WACV**</span> 2025
 
-- **<font size="4">\[C1\] CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**
+- **<font size="4">[C1] CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**
 [[paper]](https://openaccess.thecvf.com/content/ACCV2022/html/Lee_CSS-Net_Classification_and_Substitution_for_Segmentation_of_Rotator_Cuff_Tear_ACCV_2022_paper.html) \\
 Kyungsu Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Moon Hwan Lee, Minji Kang, Junyoung Kim, and Jae Youn Hwang \\
 <span style="color:indianred">**ACCV**</span> 2022
 
 
 ## Journal Publications
-- **<font size="4">\[J6\] Deep learning-based framework for fast and accurate acoustic hologram generation</font>**
+- **<font size="4">[J6] Deep learning-based framework for fast and accurate acoustic hologram generation</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9939026) \\
 Moon Hwan Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, Sangyeon Youn, Tae Kim, and Jae Youn Hwang \\
 <span style="color:slateblue">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267, [Featured on the front cover](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963909)) 11.04.2022.
 
-- **<font size="4">\[J5\] Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
+- **<font size="4">[J5] Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839383) \\
 Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Dong Hun Lee, and Jae Youn Hwang. \\
 <span style="color:slateblue">**IEEE Journal of Biomedical and Health Informatics**</span> (IF: 7.021) 07.25.2022.
 
-- **<font size="4">\[J4\] Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image</font>**
+- **<font size="4">[J4] Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839469) \\
 Haeyun Lee, Moon Hwan Lee, Sangyeon Youn, Kyungsu Lee, <span style="color:lightsalmon">**Hah Min Lew**</span>, and Jae Youn Hwang. \\
 <span style="color:slateblue">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267) 07.25.2022.
 
-- **<font size="4">\[J3\] Intelligent Smartphone-based Multimode Imaging Otoscope for the Mobile Diagnosis of Otitis Media</font>**
+- **<font size="4">[J3] Intelligent Smartphone-based Multimode Imaging Otoscope for the Mobile Diagnosis of Otitis Media</font>**
 [[paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-12-7765&id=465384) \\
 Thiago Coutinho Cavalcanti, <span style="color:lightsalmon">**Hah Min Lew**</span>, Kyungsu Lee, Sang-yeon Lee, Moo Kyun Park, and Jae Youn Hwang. \\
 <span style="color:slateblue">**Biomedical Optics Express**</span> (IF: 3.562, [Spotlight on Optics](https://opg.optica.org/spotlight/summary.cfm?id=465384)) 11.23.2021.
 
-- **<font size="4">\[J2\] Ultrasonic Blood Flowmeter with a Novel Xero Algorithm for a Mechanical Circulatory Support System</font>**
+- **<font size="4">[J2] Ultrasonic Blood Flowmeter with a Novel Xero Algorithm for a Mechanical Circulatory Support System</font>**
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0041624X21000913) \\
 <span style="color:lightsalmon">**Hah Min Lew**</span>, Heean Shin, Moon Hwan Lee, Sangyeon Youn, Hee Chan Kim, and Jae Youn Hwang. \\
 <span style="color:slateblue">**Ultrasonics**</span> (IF: 4.062) 08.01.2021.
 
-- **<font size="4">\[J1\] Forward-looking Multimodal Endoscopic System based on Optical Multispectral and High-frequency Ultrasound Imaging Techniques for Tumor Detection</font>**
+- **<font size="4">[J1] Forward-looking Multimodal Endoscopic System based on Optical Multispectral and High-frequency Ultrasound Imaging Techniques for Tumor Detection</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9233369) \\
 Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na Seo, Soo Yeun Park, Jin Ho Chang, Enjoo Kim, and Jae Youn Hwang. \\
 <span style="color:slateblue">**IEEE Transactions on Medical Imaging**</span> (IF: 11.037) 10.20.2020.
