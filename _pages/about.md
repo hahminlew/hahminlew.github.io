@@ -72,7 +72,7 @@ Jihun Kim, <span style="color:lightsalmon">**Hah Min Lew**</span>, Jung-Hee Kim,
 <span style="color:slateblue">**IEEE Transactions on Medical Imaging**</span> (IF: 11.037) 10.20.2020.
 
 
-## Presentations & Proceedings
+## International Conference Presentations & Proceedings
 - **<font size="4">Deep Learning-based Quantitative Diagnosis of Early Dental Caries Using Multimode Image Datasets</font>** \\
 <span style="color:lightsalmon">**Hah Min Lew**</span>, Thiago Coutinho Cavalcanti, Hong Keun Hyun, and Jae Youn Hwang \\
 <span style="color:slateblue">**SPIE Photonics West**</span> 01.24.2022.
