@@ -27,82 +27,82 @@ Audio-driven 3DMM Generation
 - **<font size="4">[C3] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
   [[project page]](https://hahminlew.github.io/geoavatar/) \\
 SeungJun Moon<sup>*</sup>, <span style="color:slateblue">**Hah Min Lew<sup>*</sup>**</span>, Seungeun Lee, Ji-Su Kang, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
-<span style="color:crimson">**ICCV**</span> 2025
+<span style="color:lightcoral">**ICCV**</span> 2025
 
 - **<font size="4">[C2] Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications</font>**
   [[paper]](https://arxiv.org/abs/2411.00652) [[project page]](https://hahminlew.github.io/changer/) \\
 <span style="color:slateblue">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
-<span style="color:crimson">**WACV**</span> 2025
+<span style="color:lightcoral">**WACV**</span> 2025
 
 - **<font size="4">[C1] CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**
 [[paper]](https://openaccess.thecvf.com/content/ACCV2022/html/Lee_CSS-Net_Classification_and_Substitution_for_Segmentation_of_Rotator_Cuff_Tear_ACCV_2022_paper.html) \\
 Kyungsu Lee, <span style="color:slateblue">**Hah Min Lew**</span>, Moon Hwan Lee, Minji Kang, Junyoung Kim, and Jae Youn Hwang \\
-<span style="color:crimson">**ACCV**</span> 2022
+<span style="color:lightcoral">**ACCV**</span> 2022
 
 
 ## Journal Publications
 - **<font size="4">[J6] Deep learning-based framework for fast and accurate acoustic hologram generation</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9939026) \\
 Moon Hwan Lee, <span style="color:slateblue">**Hah Min Lew**</span>, Sangyeon Youn, Tae Kim, and Jae Youn Hwang \\
-<span style="color:crimson">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267, [Featured on the front cover](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963909)) 11.04.2022.
+<span style="color:lightcoral">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267, [Featured on the front cover](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963909)) 11.04.2022.
 
 - **<font size="4">[J5] Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839383) \\
 Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:slateblue">**Hah Min Lew**</span>, Dong Hun Lee, and Jae Youn Hwang. \\
-<span style="color:crimson">**IEEE Journal of Biomedical and Health Informatics**</span> (IF: 7.021) 07.25.2022.
+<span style="color:lightcoral">**IEEE Journal of Biomedical and Health Informatics**</span> (IF: 7.021) 07.25.2022.
 
 - **<font size="4">[J4] Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839469) \\
 Haeyun Lee, Moon Hwan Lee, Sangyeon Youn, Kyungsu Lee, <span style="color:slateblue">**Hah Min Lew**</span>, and Jae Youn Hwang. \\
-<span style="color:crimson">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267) 07.25.2022.
+<span style="color:lightcoral">**IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control**</span> (IF: 3.267) 07.25.2022.
 
 - **<font size="4">[J3] Intelligent Smartphone-based Multimode Imaging Otoscope for the Mobile Diagnosis of Otitis Media</font>**
 [[paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-12-7765&id=465384) \\
 Thiago Coutinho Cavalcanti, <span style="color:slateblue">**Hah Min Lew**</span>, Kyungsu Lee, Sang-yeon Lee, Moo Kyun Park, and Jae Youn Hwang. \\
-<span style="color:crimson">**Biomedical Optics Express**</span> (IF: 3.562, [Spotlight on Optics](https://opg.optica.org/spotlight/summary.cfm?id=465384)) 11.23.2021.
+<span style="color:lightcoral">**Biomedical Optics Express**</span> (IF: 3.562, [Spotlight on Optics](https://opg.optica.org/spotlight/summary.cfm?id=465384)) 11.23.2021.
 
 - **<font size="4">[J2] Ultrasonic Blood Flowmeter with a Novel Xero Algorithm for a Mechanical Circulatory Support System</font>**
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0041624X21000913) \\
 <span style="color:slateblue">**Hah Min Lew**</span>, Heean Shin, Moon Hwan Lee, Sangyeon Youn, Hee Chan Kim, and Jae Youn Hwang. \\
-<span style="color:crimson">**Ultrasonics**</span> (IF: 4.062) 08.01.2021.
+<span style="color:lightcoral">**Ultrasonics**</span> (IF: 4.062) 08.01.2021.
 
 - **<font size="4">[J1] Forward-looking Multimodal Endoscopic System based on Optical Multispectral and High-frequency Ultrasound Imaging Techniques for Tumor Detection</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9233369) \\
 Jihun Kim, <span style="color:slateblue">**Hah Min Lew**</span>, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na Seo, Soo Yeun Park, Jin Ho Chang, Enjoo Kim, and Jae Youn Hwang. \\
-<span style="color:crimson">**IEEE Transactions on Medical Imaging**</span> (IF: 11.037) 10.20.2020.
+<span style="color:lightcoral">**IEEE Transactions on Medical Imaging**</span> (IF: 11.037) 10.20.2020.
 
 
 ## International Conference Presentations & Proceedings
 - **<font size="4">Deep Learning-based Quantitative Diagnosis of Early Dental Caries Using Multimode Image Datasets</font>** \\
 <span style="color:slateblue">**Hah Min Lew**</span>, Thiago Coutinho Cavalcanti, Hong Keun Hyun, and Jae Youn Hwang \\
-<span style="color:crimson">**SPIE Photonics West**</span> 01.24.2022.
+<span style="color:lightcoral">**SPIE Photonics West**</span> 01.24.2022.
 
 - **<font size="4">Monitoring of Spatially Selective Calcium Response to Holographic Ultrasound Stimulation Using Fluorescence Imaging</font>** \\
 Moon Hwan Lee, <span style="color:slateblue">**Hah Min Lew**</span>, Jae Seong Kim, Sangyeon Youn, and Jae Youn Hwang. \\
-<span style="color:crimson">**SPIE Photonics West**</span> 01.24.2022.
+<span style="color:lightcoral">**SPIE Photonics West**</span> 01.24.2022.
 
 - **<font size="4">Smartphone-based Multimode Imaging for Quantitative Diagnosis of Early Dental Caries</font>** \\
 <span style="color:slateblue">**Hah Min Lew**</span>, Sewoong Kim, Thiago Coutinho Cavalcanti, Hong Keun Hyun, and Jae Youn Hwang. \\
-<span style="color:crimson">**SPIE Photonics West**</span> 03.06.2021.
+<span style="color:lightcoral">**SPIE Photonics West**</span> 03.06.2021.
 
 - **<font size="4">Multimode 3D and Spectral Imaging and Analysis of the Tympanic Membrane Using a Smartphone-based Otoscopic System</font>** \\
 Thiago Coutinho Cavalcanti, <span style="color:slateblue">**Hah Min Lew**</span>, Kyungsu Lee, and Jae Youn Hwang. \\
-<span style="color:crimson">**SPIE Photonics West**</span> (Oral) 03.06.2021.
+<span style="color:lightcoral">**SPIE Photonics West**</span> (Oral) 03.06.2021.
 
 - **<font size="4">Intelligent Wearable Bladder Monitoring Device with an Inertial Measurement Unit for Robust Measurement of Bladder Volume</font>** \\
 Moon Hwan Lee, <span style="color:slateblue">**Hah Min Lew**</span>, and Jae Youn Hwang. \\
-<span style="color:crimson">**IEEE International Ultrasonic Symposium**</span> 09.06.2020.
+<span style="color:lightcoral">**IEEE International Ultrasonic Symposium**</span> 09.06.2020.
 
 - **<font size="4">Enfaced Multimodal Endoscopic System based on Multispectral and High-frequency Ultrasound Imaging for In situ Tumor Characterizations</font>** \\
 Jihun Kim, <span style="color:slateblue">**Hah Min Lew**</span>, Jin-Hyung Park, Jin Ho Chang, and Jae Youn Hwang. \\
-<span style="color:crimson">**SPIE Photonics West**</span> (Oral) 02.06.2020.
+<span style="color:lightcoral">**SPIE Photonics West**</span> (Oral) 02.06.2020.
 
 
 ## Preprint
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
 <span style="color:slateblue">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang <font size="3">(* equal contribution)</font>\\
-<span style="color:crimson">**Arxiv**</span> 2023
+<span style="color:lightcoral">**Arxiv**</span> 2023
 
 
 ## Work Experiences
