@@ -101,7 +101,7 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 ## Preprint
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
-<span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang <font size="3">(* equal contribution)</font>\\
+<span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang <font size="2">(<sup>*</sup>equal contribution)</font>\\
 <span style="color:crimson">**Arxiv**</span> 2023
 
 
@@ -126,7 +126,7 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 ## Education
 - **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2022</font> 
 
-- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - **(Best Project Award)**
+- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font>
 
 
 <!-- ## Projects
