@@ -126,7 +126,7 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 ## Education
 - **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2022</font> 
 
-- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - **[(Best Project Award)](https://hahminlew.github.io/awards/)**
+- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> - **(Best Project Award)**
 
 
 <!-- ## Projects
