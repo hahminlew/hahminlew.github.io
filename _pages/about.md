@@ -26,12 +26,12 @@ Audio-driven 3DMM Generation
 ## Conference Publications
 - **<font size="4">[C3] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
   [[project page]](https://hahminlew.github.io/geoavatar/) \\
-SeungJun Moon<sup>*</sup>, <span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Seungeun Lee, Ji-Su Kang, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
+SeungJun Moon<sup>*</sup>, <span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Seungeun Lee, Ji-Su Kang, and Gyeong-Moon Park <font size="2">(<sup>*</sup>equal contribution)</font> \\
 <span style="color:crimson">**ICCV**</span> 2025
 
 - **<font size="4">[C2] Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications</font>**
   [[paper]](https://arxiv.org/abs/2411.00652) [[project page]](https://hahminlew.github.io/changer/) \\
-<span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="3">(* equal contribution)</font> \\
+<span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Sahng-Min Yoo<sup>*</sup>, Hyunwoo Kang<sup>*</sup>, and Gyeong-Moon Park <font size="2">(<sup>*</sup>equal contribution)</font> \\
 <span style="color:crimson">**WACV**</span> 2025
 
 - **<font size="4">[C1] CSS-Net: Classification and Substitution for Segmentation of Rotator Cuff Tear</font>**
