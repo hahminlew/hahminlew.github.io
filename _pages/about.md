@@ -113,8 +113,8 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
   - Built large-scale multimodal data pipelines (9.41M+ frames from in-the-wild videos).
   - Integrated external APIs (NVIDIA Audio2Face, OpenAI ChatGPT, TTS) into a streaming avatar system, achieving 25-28 FPS performance.
 - Graduate Researcher, **[Multimodal Biomedical Imaging and System Lab](http://mbis.dgist.ac.kr/)**, Daegu Gyeongbuk Institute of Science and Technology (DGIST), Daegu, South Korea, <font size="3">Mar. 2019 - Aug. 2022</font>
-  - Advisor: [Prof. Jae Youn Hwang](https://scholar.google.com/citations?user=dzf8VB0AAAAJ&hl)
-  - 6 SCIE publications, 7 international conferences, 9 projects, 4 patents, and [2 awards](https://hahminlew.github.io/awards/).
+  - Advisor: Prof. Jae Youn Hwang
+  - 6 SCIE publications, 7 international conferences, 9 projects, 4 patents, and 2 awards.
   - Designed machine learning-based anomaly detection systems and generative models for biomedical imaging, focusing on multimodal, class-imbalance, and multi-task learning.
   - Developed hardware-software integrated systems for application-specific use cases.
   - Collaborative research with medical doctors from hospitals, including SNUH, SNUDH, and Yonsei Severance.
