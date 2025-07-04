@@ -83,7 +83,7 @@ Moon Hwan Lee, <span style="color:black">**Hah Min Lew**</span>, Jae Seong Kim, 
 
 - **<font size="4">Smartphone-based Multimode Imaging for Quantitative Diagnosis of Early Dental Caries</font>** \\
 <span style="color:black">**Hah Min Lew**</span>, Sewoong Kim, Thiago Coutinho Cavalcanti, Hong Keun Hyun, and Jae Youn Hwang. \\
-<span style="color:crimson">**SPIE**</span>2021
+<span style="color:crimson">**SPIE**</span> 2021
 
 - **<font size="4">Multimode 3D and Spectral Imaging and Analysis of the Tympanic Membrane Using a Smartphone-based Otoscopic System</font>** \\
 Thiago Coutinho Cavalcanti, <span style="color:black">**Hah Min Lew**</span>, Kyungsu Lee, and Jae Youn Hwang. \\
