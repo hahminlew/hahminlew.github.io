@@ -149,7 +149,7 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
   - Developed an advanced 1-D time-series signal processing algorithm that is complementary for both zero-crossing and cross-correlation algorithms.
   - Achievement: First author of peer-reviewed SCIE publications. -->
 
-## Acamdeic Services
+## Academic Services
 <!-- - Conference Reviewer
   -  -->
 - Journal Reviewer
