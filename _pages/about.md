@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm an AI Researcher at [Klleon](https://klleon.io/).
 
-- AI Researcher with 2+ years at Klleon, specializing in Generative AI for digital humans.
+- AI Researcher with 3+ years at Klleon, specializing in Generative AI for digital humans.
 - M.S. in Electrical Engineering and Computer Science, with expertise in Machine/Deep Learning, Signal/Image Processing, and Multimodal Data Analysis.
 
 Currently leading research in facial 3D avatar generation, enabling lifelike avatar movements and lip-sync. Exploring efficient 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
