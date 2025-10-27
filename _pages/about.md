@@ -107,7 +107,8 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
-  - Developing audio-driven 3DMM generation for virtual avatars with natural human-like expressions and movements. (LVE ↓27.5%, FDD ↓28.9%, MEE ↓27.1%, CE ↓24.1%, Diversity ↑17.7%)
+  - Accelerated inference using a training-free diffusion sampler (↑4.11×).
+  - Developed audio-driven 3DMM generation for virtual avatars with natural human-like expressions and movements. (LVE ↓27.5%, FDD ↓28.9%, MEE ↓27.1%, CE ↓24.1%, Diversity ↑17.7%)
   - Developed a photorealistic head rendering model using Gaussian Splatting, outperforming 5 state-of-the-art models. (MSE ↓59.96%, PSNR ↑4.41dB, SSIM ↑3.85%, LPIPS ↓38.16%)
   - Developed a Head Swap AI model with 212.7x speedup, reducing annual GPU costs by 99.53% (from $2.2M to $10.5K).
   - Built large-scale multimodal data pipelines (9.41M+ frames from in-the-wild videos).
