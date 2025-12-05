@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Upcomming Ph.D. student, supervised by Prof.[Gyeong-Moon Park](https://vgi.korea.ac.kr/) in the Visual & General Intelligence Lab.
+Upcoming Ph.D. student, supervised by Prof. [Gyeong-Moon Park](https://vgi.korea.ac.kr/) in the Visual & General Intelligence Lab.
 
 ## Conference Publications
 - **<font size="4">[C3] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
