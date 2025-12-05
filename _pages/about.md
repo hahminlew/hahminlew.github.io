@@ -91,6 +91,21 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 <span style="color:crimson">**arXiv**</span> 2023
 
 
+## Education
+- **Ph.D.** in Artificial Intelligence, **Korea University**, <font size="3">Mar. 2026 - present</font>
+
+- **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2022</font> 
+
+- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> <font size="2">(Best Project Award)</font>
+
+
+## Academic Services
+<!-- - Conference Reviewer
+  -  -->
+- Journal Reviewer
+    - Medical Physics
+
+
 ## Work Experiences
 - AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Feb. 2025</font>
   - Accelerated inference using a training-free diffusion sampler (↑4.11×).
@@ -109,13 +124,6 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
   - Founded a data-driven personalized tutor matching service company in collaboration with Class101.
   - Designed a matching database system and established tutor evaluation metrics for personalized recommendations.
 
-
-## Education
-- **Ph.D.** in Artificial Intelligence, **Korea University**, <font size="3">Mar. 2026 - present</font>
-
-- **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2022</font> 
-
-- **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> <font size="2">(Best Project Award)</font>
 
 
 <!-- ## Projects
@@ -138,8 +146,4 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
   - Developed an advanced 1-D time-series signal processing algorithm that is complementary for both zero-crossing and cross-correlation algorithms.
   - Achievement: First author of peer-reviewed SCIE publications. -->
 
-## Academic Services
-<!-- - Conference Reviewer
-  -  -->
-- Journal Reviewer
-    - Medical Physics
+
