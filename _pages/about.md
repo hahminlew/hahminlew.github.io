@@ -48,27 +48,27 @@ Moon Hwan Lee, <span style="color:black">**Hah Min Lew**</span>, Sangyeon Youn, 
 
 - **<font size="4">[J5] Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839383) \\
-Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:black">**Hah Min Lew**</span>, Dong Hun Lee, and Jae Youn Hwang. \\
+Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:black">**Hah Min Lew**</span>, Dong Hun Lee, and Jae Youn Hwang \\
 <span style="color:crimson">**JBHI**</span> (IF: 7.021) 07.25.2022.
 
 - **<font size="4">[J4] Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839469) \\
-Haeyun Lee, Moon Hwan Lee, Sangyeon Youn, Kyungsu Lee, <span style="color:black">**Hah Min Lew**</span>, and Jae Youn Hwang. \\
+Haeyun Lee, Moon Hwan Lee, Sangyeon Youn, Kyungsu Lee, <span style="color:black">**Hah Min Lew**</span>, and Jae Youn Hwang \\
 <span style="color:crimson">**TUFFC**</span> (IF: 3.267) 07.25.2022.
 
 - **<font size="4">[J3] Intelligent Smartphone-based Multimode Imaging Otoscope for the Mobile Diagnosis of Otitis Media</font>**
 [[paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-12-7765&id=465384) \\
-Thiago Coutinho Cavalcanti, <span style="color:black">**Hah Min Lew**</span>, Kyungsu Lee, Sang-yeon Lee, Moo Kyun Park, and Jae Youn Hwang. \\
+Thiago Coutinho Cavalcanti, <span style="color:black">**Hah Min Lew**</span>, Kyungsu Lee, Sang-yeon Lee, Moo Kyun Park, and Jae Youn Hwang \\
 <span style="color:crimson">**Biomedical Optics Express**</span> (IF: 3.562, [Spotlight on Optics](https://opg.optica.org/spotlight/summary.cfm?id=465384)) 11.23.2021.
 
 - **<font size="4">[J2] Ultrasonic Blood Flowmeter with a Novel Xero Algorithm for a Mechanical Circulatory Support System</font>**
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0041624X21000913) \\
-<span style="color:black">**Hah Min Lew**</span>, Heean Shin, Moon Hwan Lee, Sangyeon Youn, Hee Chan Kim, and Jae Youn Hwang. \\
+<span style="color:black">**Hah Min Lew**</span>, Heean Shin, Moon Hwan Lee, Sangyeon Youn, Hee Chan Kim, and Jae Youn Hwang \\
 <span style="color:crimson">**Ultrasonics**</span> (IF: 4.062) 08.01.2021.
 
 - **<font size="4">[J1] Forward-looking Multimodal Endoscopic System based on Optical Multispectral and High-frequency Ultrasound Imaging Techniques for Tumor Detection</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9233369) \\
-Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na Seo, Soo Yeun Park, Jin Ho Chang, Enjoo Kim, and Jae Youn Hwang. \\
+Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na Seo, Soo Yeun Park, Jin Ho Chang, Enjoo Kim, and Jae Youn Hwang \\
 <span style="color:crimson">**TMI**</span> (IF: 11.037) 10.20.2020.
 
 
@@ -78,23 +78,23 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jung-Hee Kim, Sangy
 <span style="color:crimson">**SPIE**</span> 2022
 
 - **<font size="4">Monitoring of Spatially Selective Calcium Response to Holographic Ultrasound Stimulation Using Fluorescence Imaging</font>** \\
-Moon Hwan Lee, <span style="color:black">**Hah Min Lew**</span>, Jae Seong Kim, Sangyeon Youn, and Jae Youn Hwang. \\
+Moon Hwan Lee, <span style="color:black">**Hah Min Lew**</span>, Jae Seong Kim, Sangyeon Youn, and Jae Youn Hwang \\
 <span style="color:crimson">**SPIE**</span> 2022
 
 - **<font size="4">Smartphone-based Multimode Imaging for Quantitative Diagnosis of Early Dental Caries</font>** \\
-<span style="color:black">**Hah Min Lew**</span>, Sewoong Kim, Thiago Coutinho Cavalcanti, Hong Keun Hyun, and Jae Youn Hwang. \\
+<span style="color:black">**Hah Min Lew**</span>, Sewoong Kim, Thiago Coutinho Cavalcanti, Hong Keun Hyun, and Jae Youn Hwang \\
 <span style="color:crimson">**SPIE**</span> 2021
 
 - **<font size="4">Multimode 3D and Spectral Imaging and Analysis of the Tympanic Membrane Using a Smartphone-based Otoscopic System</font>** \\
-Thiago Coutinho Cavalcanti, <span style="color:black">**Hah Min Lew**</span>, Kyungsu Lee, and Jae Youn Hwang. \\
+Thiago Coutinho Cavalcanti, <span style="color:black">**Hah Min Lew**</span>, Kyungsu Lee, and Jae Youn Hwang \\
 <span style="color:crimson">**SPIE**</span> 2021 <font size="2">(Oral)</font>
 
 - **<font size="4">Intelligent Wearable Bladder Monitoring Device with an Inertial Measurement Unit for Robust Measurement of Bladder Volume</font>** \\
-Moon Hwan Lee, <span style="color:black">**Hah Min Lew**</span>, and Jae Youn Hwang. \\
+Moon Hwan Lee, <span style="color:black">**Hah Min Lew**</span>, and Jae Youn Hwang \\
 <span style="color:crimson">**IUS**</span> 2020
 
 - **<font size="4">Enfaced Multimodal Endoscopic System based on Multispectral and High-frequency Ultrasound Imaging for In situ Tumor Characterizations</font>** \\
-Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin Ho Chang, and Jae Youn Hwang. \\
+Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin Ho Chang, and Jae Youn Hwang \\
 <span style="color:crimson">**SPIE**</span> 2020 <font size="2">(Oral)</font>
 
 
