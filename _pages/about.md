@@ -7,21 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an AI Researcher at [Klleon](https://klleon.io/).
-
-- AI Researcher with 3+ years at Klleon, specializing in Generative AI for digital humans.
-- M.S. in Electrical Engineering and Computer Science, with expertise in Machine/Deep Learning, Signal/Image Processing, and Multimodal Data Analysis.
-
-Currently leading research in facial 3D avatar generation, enabling lifelike avatar movements and lip-sync. Exploring efficient 3DMM generation and leveraging Gaussian Splatting for photorealistic rendering.
-
-"Bridging AI research and scalable solutions for measurable real-world impact."
-
-Featured Projects:
-Audio-driven 3DMM Generation
-• 3D Avatar Generation
-• Photorealistic Human Head Rendering
-• Virtual Human Dialogue System
-
+Upcomming Ph.D. student, supervised by Prof.[Gyeong-Moon Park](https://vgi.korea.ac.kr/) in the Visual & General Intelligence Lab.
 
 ## Conference Publications
 - **<font size="4">[C3] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
@@ -102,11 +88,11 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
 <span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Jae Seong Kim<sup>*</sup>, Moon Hwan Lee, Jaegeun Park, Sangyeon Youn, Hee Man Kim, Jihun Kim, and Jae Youn Hwang <font size="2">(<sup>*</sup>equal contribution)</font>\\
-<span style="color:crimson">**Arxiv**</span> 2023
+<span style="color:crimson">**arXiv**</span> 2023
 
 
 ## Work Experiences
-- AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - present</font>
+- AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Feb. 2025</font>
   - Accelerated inference using a training-free diffusion sampler (↑4.11×).
   - Developed audio-driven 3DMM generation for virtual avatars with natural human-like expressions and movements. (LVE ↓27.5%, FDD ↓28.9%, MEE ↓27.1%, CE ↓24.1%, Diversity ↑17.7%)
   - Developed a photorealistic head rendering model using Gaussian Splatting, outperforming 5 state-of-the-art models. (MSE ↓59.96%, PSNR ↑4.41dB, SSIM ↑3.85%, LPIPS ↓38.16%)
@@ -125,6 +111,8 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 
 
 ## Education
+- **Ph.D.** in Artificial Intelligence, **Korea University**, <font size="3">Mar. 2026 - present</font>
+
 - **M.S.** in Electrical Engineering & Computer Science (EECS), **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2019 - Aug. 2022</font> 
 
 - **B.E.** in Bachelor of Engineering, **Daegu Gyeongbuk Institute of Science and Technology (DGIST)**, <font size="3">Mar. 2014 - Feb. 2019</font> <font size="2">(Best Project Award)</font>

@@ -20,7 +20,7 @@ title                    : "Curriculum Vitae"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hah Min Lew"
-description              : "AI Researcher at Klleon"
+description              : "Ph.D. student at Korea University"
 url                      : "https://hahminlew.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hahminlew/hahminlew.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Hah Min Lew"
   avatar           : "/images/profile_square.jpg"
-  bio              : "AI Researcher at Klleon"
+  bio              : "Ph.D. student at Korea University"
   location         : "Seoul, South Korea"
   links:
     - label: "Email"
