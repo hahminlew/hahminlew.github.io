@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Upcoming Ph.D. student, supervised by Prof. [Gyeong-Moon Park](https://vgi.korea.ac.kr/) in the Visual & General Intelligence Lab.
+Ph.D. student at the Visual & General Intelligence (VGI) Lab, Korea University, supervised by Prof. [Gyeong-Moon Park](https://vgi.korea.ac.kr/). Current research focus lies in Vision-Language-Action (VLA) models, Federated Learning, and multimodal generative models.
+
+Prior to academia, professional experience includes over three years as an AI Researcher at Klleon AI Research. Key contributions involved photo-realistic 3D human generation, enabling lifelike avatar movements and lip-sync. Holds both M.S. and B.E. degrees from DGIST, with a strong foundation in Deep Learning and Signal Processing, advised by Prof. Jae Youn Hwang.
+
 
 ## Conference Publications
 - **<font size="4">[C3] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
@@ -107,7 +110,7 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 
 
 ## Work Experiences
-- AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Feb. 2025</font>
+- AI Researcher, **Klleon AI Research**, Seoul, South Korea, <font size="3">Aug. 2022 - Feb. 2026</font>
   - Accelerated inference using a training-free diffusion sampler (↑4.11×).
   - Developed audio-driven 3DMM generation for virtual avatars with natural human-like expressions and movements. (LVE ↓27.5%, FDD ↓28.9%, MEE ↓27.1%, CE ↓24.1%, Diversity ↑17.7%)
   - Developed a photorealistic head rendering model using Gaussian Splatting, outperforming 5 state-of-the-art models. (MSE ↓59.96%, PSNR ↑4.41dB, SSIM ↑3.85%, LPIPS ↓38.16%)
