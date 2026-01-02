@@ -14,7 +14,7 @@ Prior to academia, professional experience includes over three years as an AI Re
 
 ## Conference Publications
 - **<font size="4">[C3] GeoAvatar: Adaptive Geometrical Gaussian Splatting for 3D Head Avatar</font>** 
-  [[paper]](https://arxiv.org/abs/2507.18155) [[project page]](https://hahminlew.github.io/geoavatar/) \\
+  [[paper]](https://arxiv.org/abs/2507.18155) [[project page]](https://hahminlew.github.io/geoavatar/) [[code]](https://github.com/seungjun-moon/geoavatar) \\
 SeungJun Moon<sup>*</sup>, <span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Seungeun Lee, Ji-Su Kang, and Gyeong-Moon Park <font size="2">(<sup>*</sup>equal contribution)</font> \\
 <span style="color:crimson">**ICCV**</span> 2025
 
