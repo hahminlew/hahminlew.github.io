@@ -13,8 +13,7 @@ Prior to academia, professional experience includes over three years as an AI Re
 
 
 ## Conference Publications
-- **<font size="4">[C4] Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video</font>** 
-  [[paper]](https://arxiv.org/abs/2507.18155) [[project page]](https://hahminlew.github.io/geoavatar/) [[code]](https://github.com/seungjun-moon/geoavatar) \\
+- **<font size="4">[C4] Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video</font>** \\
 Seungeun Lee, SeungJun Moon, <span style="color:black">**Hah Min Lew**</span>, Ji-Su Kang, and Gyeong-Moon Park \\
 <span style="color:crimson">**ICLR**</span> 2026
 
