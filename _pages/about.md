@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D. student at the Visual & General Intelligence (VGI) Lab, Korea University, supervised by Prof. [Gyeong-Moon Park](https://vgi.korea.ac.kr/). Current research focus lies in Vision-Language-Action (VLA) models, Federated Learning, and multimodal generative models.
+Ph.D. student at the Visual & General Intelligence (VGI) Lab, Korea University, supervised by Prof. [Gyeong-Moon Park](https://vgi.korea.ac.kr/). Current research focus lies in Vision-Language-Action (VLA) models, Vision-Language-Navigation (VLN) models, and multimodal generative models.
 
 Prior to academia, professional experience includes over three years as an AI Researcher at Klleon AI Research. Key contributions involved photo-realistic 3D human generation, enabling lifelike avatar movements and lip-sync. Holds both M.S. and B.E. degrees from DGIST, with a strong foundation in Deep Learning and Signal Processing, advised by Prof. Jae Youn Hwang.
 
