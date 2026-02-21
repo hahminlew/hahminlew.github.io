@@ -17,7 +17,8 @@ Prior to academia, professional experience includes over three years as an AI Re
 Seungeun Lee, SeungJun Moon, <span style="color:black">**Hah Min Lew**</span>, Ji-Su Kang, and Gyeong-Moon Park \\
 <span style="color:crimson">**CVPR**</span> 2026
 
-- **<font size="4">[C4] Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video</font>** \\
+- **<font size="4">[C4] Dynamic Texture Modeling of 3D Clothed Gaussian Avatars from a Single Video</font>**
+  [[paper]](https://openreview.net/forum?id=2A3Q2EtGTF) [[poster]](https://iclr.cc/virtual/2026/paper/10011771) \\
 Seungeun Lee, SeungJun Moon, <span style="color:black">**Hah Min Lew**</span>, Ji-Su Kang, and Gyeong-Moon Park \\
 <span style="color:crimson">**ICLR**</span> 2026
 
