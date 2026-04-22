@@ -39,25 +39,25 @@ Kyungsu Lee, <span style="color:black">**Hah Min Lew**</span>, Moon Hwan Lee, Mi
 
 
 ## Journal Publications
-- **<font size="4">[J6] Deep learning-based framework for fast and accurate acoustic hologram generation</font>**
+- **<font size="4">[J6] Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
+[[paper]](https://ieeexplore.ieee.org/document/9839383) \\
+Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:black">**Hah Min Lew**</span>, Dae Hun Suh, Dong Hun Lee, and Jae Youn Hwang \\
+<span style="color:crimson">**JBHI**</span> (IF: 7.021) 01.04.2023.
+
+- **<font size="4">[J5] Deep learning-based framework for fast and accurate acoustic hologram generation</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9939026) \\
 Moon Hwan Lee, <span style="color:black">**Hah Min Lew**</span>, Sangyeon Youn, Tae Kim, and Jae Youn Hwang \\
-<span style="color:crimson">**TUFFC**</span> (IF: 3.267, [Featured on the front cover](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963909)) 11.04.2022.
-
-- **<font size="4">[J5] Multi-task and Few-shot Learning-based Fully Automatic Deep Learning Platform for Mobile Diagnosis of Skin Diseases</font>**
-[[paper]](https://ieeexplore.ieee.org/document/9839383) \\
-Kyungsu Lee, Thiago Coutinho Cavalcanti, Sewoong Kim, <span style="color:black">**Hah Min Lew**</span>, Dong Hun Lee, and Jae Youn Hwang \\
-<span style="color:crimson">**JBHI**</span> (IF: 7.021) 07.25.2022.
+<span style="color:crimson">**TUFFC**</span> (IF: 3.267, [Featured on the front cover](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963909)) 11.24.2022.
 
 - **<font size="4">[J4] Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9839469) \\
 Haeyun Lee, Moon Hwan Lee, Sangyeon Youn, Kyungsu Lee, <span style="color:black">**Hah Min Lew**</span>, and Jae Youn Hwang \\
-<span style="color:crimson">**TUFFC**</span> (IF: 3.267) 07.25.2022.
+<span style="color:crimson">**TUFFC**</span> (IF: 3.267) 08.26.2022.
 
 - **<font size="4">[J3] Intelligent Smartphone-based Multimode Imaging Otoscope for the Mobile Diagnosis of Otitis Media</font>**
 [[paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-12-7765&id=465384) \\
 Thiago Coutinho Cavalcanti, <span style="color:black">**Hah Min Lew**</span>, Kyungsu Lee, Sang-yeon Lee, Moo Kyun Park, and Jae Youn Hwang \\
-<span style="color:crimson">**Biomedical Optics Express**</span> (IF: 3.562, [Spotlight on Optics](https://opg.optica.org/spotlight/summary.cfm?id=465384)) 11.23.2021.
+<span style="color:crimson">**Biomedical Optics Express**</span> (IF: 3.562, [Spotlight on Optics](https://opg.optica.org/spotlight/summary.cfm?id=465384)) 12.01.2021.
 
 - **<font size="4">[J2] Ultrasonic Blood Flowmeter with a Novel Xero Algorithm for a Mechanical Circulatory Support System</font>**
 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0041624X21000913) \\
@@ -67,7 +67,7 @@ Thiago Coutinho Cavalcanti, <span style="color:black">**Hah Min Lew**</span>, Ky
 - **<font size="4">[J1] Forward-looking Multimodal Endoscopic System based on Optical Multispectral and High-frequency Ultrasound Imaging Techniques for Tumor Detection</font>**
 [[paper]](https://ieeexplore.ieee.org/document/9233369) \\
 Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jung-Hee Kim, Sangyeon Youn, Hasan Al Faruque, An Na Seo, Soo Yeun Park, Jin Ho Chang, Enjoo Kim, and Jae Youn Hwang \\
-<span style="color:crimson">**TMI**</span> (IF: 11.037) 10.20.2020.
+<span style="color:crimson">**TMI**</span> (IF: 11.037) 02.01.2021.
 
 
 ## International Conference Presentations & Proceedings
