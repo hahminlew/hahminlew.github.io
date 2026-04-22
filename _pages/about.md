@@ -14,7 +14,7 @@ Prior to academia, professional experience includes over three years as an AI Re
 
 ## Conference Publications
 - **<font size="4">[C5] Personalized Audio-driven Whole-body Talking Avatars</font>** \\
-Seungeun Lee, SeungJun Moon, <span style="color:black">**Hah Min Lew**</span>, Ji-Su Kang, and Gyeong-Moon Park \\
+Seungeun Lee, SeungJun Moon, <span style="color:black">**Hah Min Lew**</span>, Ji-Su Kang, and Gyeong-Moon Park [[poster]](https://cvpr.thecvf.com/virtual/2026/poster/39239) \\
 <span style="color:crimson">**CVPR**</span> 2026
 
 - **<font size="4">[C4] Secondary Motion-Aware 3D Clothed Gaussian Avatars from Monocular Videos</font>**
