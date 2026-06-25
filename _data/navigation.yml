@@ -10,6 +10,8 @@ main:
     url: https://hahminlew.github.io/images/HahMinLew_CV.pdf
   - title: "Project Pages"
     sublinks:
+      - title: FacePlex
+        url: https://hahminlew.github.io/faceplex/
       - title: GeoAvatar
         url: https://hahminlew.github.io/geoavatar/
       - title: CHANGER
