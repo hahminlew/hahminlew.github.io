@@ -98,9 +98,9 @@ Jihun Kim, <span style="color:black">**Hah Min Lew**</span>, Jin-Hyung Park, Jin
 
 
 ## Preprint
-- **<font size="4">FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars</font>**
+- **<font size="4">FacePlex: Toward Natural Full-Duplex Conversational Avatars</font>**
   [[paper]](https://arxiv.org/abs/2606.30145) [[project page]](https://hahminlew.github.io/faceplex/) \\
-Habin Lim<sup>*</sup>, Jae-Ho Lee<sup>*</sup>, <span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Ji-Su Kang, and Gyeong-Moon Park <font size="2">(<sup>*</sup>Equal contribution)</font>\\
+Habin Lim<sup>*</sup>, <span style="color:black">**Hah Min Lew<sup>*</sup>**</span>, Jae-Ho Lee<sup>*</sup>, Min-Jae Kim, Seungen Lee, Ji-Su Kang, and Gyeong-Moon Park <font size="2">(<sup>*</sup>Equal contribution)</font>\\
 <span style="color:crimson">**arXiv**</span> 2026
 - **<font size="4">Deep Learning-based Synthetic High-Resolution In-Depth Imaging Using an Attachable Dual-element Endoscopic Ultrasound Probe</font>**
   [[paper]](https://arxiv.org/abs/2309.06770) \\
